@@ -1,0 +1,1 @@
+../../../VREscapeRoom/VREscapeRoom.uproject  /Game/VirtualRealityBP/Maps/MotionControllerMap -Messaging -SessionId=B7C5E7194732FF620CB75B99A5C07169 -SessionOwner="Dom" -SessionName="Launch On Device" -iterative
