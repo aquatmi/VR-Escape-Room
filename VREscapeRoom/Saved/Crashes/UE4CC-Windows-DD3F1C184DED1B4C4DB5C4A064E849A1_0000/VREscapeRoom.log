@@ -1,0 +1,1542 @@
+﻿Log file open, 03/10/20 14:27:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VREscapeRoom
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.156378
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Engine.ini]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Engine.ini]
+[2020.03.10-14.27.42:602][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Engine.ini]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Engine.ini]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.10-14.27.42:602][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Engine.ini]
+[2020.03.10-14.27.42:602][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Engine.ini]
+[2020.03.10-14.27.42:605][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-14.27.42:605][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.10-14.27.42:605][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.10-14.27.42:605][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-14.27.42:605][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.03.10-14.27.42:605][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-14.27.42:605][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.10-14.27.42:605][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.10-14.27.42:605][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.10-14.27.42:605][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.10-14.27.42:605][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.10-14.27.42:605][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.10-14.27.42:605][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.10-14.27.42:606][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.10-14.27.42:606][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.10-14.27.42:606][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.10-14.27.42:615][  0]LogHAL: Display: Platform has ~ 16 GB [17094701056 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.10-14.27.42:615][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.10-14.27.42:615][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.10-14.27.42:615][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.10-14.27.42:616][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.10-14.27.42:620][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.10-14.27.42:620][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.10-14.27.42:620][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Engine.ini]
+[2020.03.10-14.27.42:620][  0]LogInit: Computer: ERD177-18
+[2020.03.10-14.27.42:620][  0]LogInit: User: N0737367
+[2020.03.10-14.27.42:620][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.03.10-14.27.42:620][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.10-14.27.42:620][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.10-14.27.42:620][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.10-14.27.42:620][  0]LogMemory: Process Physical Memory: 111.67 MB used, 111.68 MB peak
+[2020.03.10-14.27.42:620][  0]LogMemory: Process Virtual Memory: 107.41 MB used, 107.41 MB peak
+[2020.03.10-14.27.42:620][  0]LogMemory: Physical Memory: 5788.98 MB used,  10513.79 MB free, 16302.78 MB total
+[2020.03.10-14.27.42:620][  0]LogMemory: Virtual Memory: 4736.31 MB used,  134212992.00 MB free, 134217728.00 MB total
+[2020.03.10-14.27.42:624][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.10-14.27.42:819][  0]LogInit: Using OS detected language (en-GB).
+[2020.03.10-14.27.42:819][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.10-14.27.42:819][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.03.10-14.27.43:111][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.10-14.27.43:169][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.10-14.27.43:169][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.10-14.27.44:899][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.10-14.27.44:945][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2020.03.10-14.27.44:945][  0]LogD3D11RHI:       11127/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.10-14.27.44:948][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.10-14.27.44:948][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.10-14.27.44:948][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.10-14.27.44:956][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.10-14.27.44:956][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.10-14.27.44:956][  0]LogWindows: EnumDisplayDevices:
+[2020.03.10-14.27.44:956][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2020.03.10-14.27.44:957][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2020.03.10-14.27.44:957][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2020.03.10-14.27.44:958][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2020.03.10-14.27.44:958][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.10-14.27.44:958][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2020.03.10-14.27.44:958][  0]LogD3D11RHI:   Driver Version: 390.77 (internal:23.21.13.9077, unified:390.77)
+[2020.03.10-14.27.44:958][  0]LogD3D11RHI:      Driver Date: 1-23-2018
+[2020.03.10-14.27.44:958][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2020.03.10-14.27.44:988][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.10-14.27.45:004][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.03.10-14.27.45:560][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.10-14.27.45:570][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.10-14.27.45:581][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.10-14.27.45:592][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.10-14.27.45:606][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.10-14.27.45:616][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.10-14.27.45:627][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.10-14.27.45:636][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.10-14.27.45:642][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.10-14.27.45:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.10-14.27.45:689][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.10-14.27.45:714][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.10-14.27.45:714][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.10-14.27.45:732][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.10-14.27.45:732][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.10-14.27.45:740][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.10-14.27.45:748][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.10-14.27.45:757][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.10-14.27.45:773][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.10-14.27.45:802][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.10-14.27.45:802][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.10-14.27.45:802][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.10-14.27.45:816][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.10-14.27.45:912][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Intermediate/Shaders/WorkingDirectory/31908/).
+[2020.03.10-14.27.45:912][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/N0737367/AppData/Local/Temp/UnrealShaderWorkingDir/968279DD438294A7C6B9B6846CCFF808/'.
+[2020.03.10-14.27.45:915][  0]LogXGEController: Cleaning working directory: C:/Users/N0737367/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.10-14.27.45:915][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2020.03.10-14.27.47:702][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.10-14.27.47:749][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/N0737367/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.03.10-14.27.47:749][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/N0737367/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.03.10-14.27.47:749][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.10-14.27.47:749][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.10-14.27.47:749][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.10-14.27.47:749][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.10-14.27.47:780][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.10-14.27.47:780][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.10-14.27.47:780][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.10-14.27.47:782][  0]LogDerivedDataCache: Using Local data cache path C:/Users/N0737367/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.10-14.27.47:782][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.10-14.27.47:782][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.10-14.27.47:800][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.10-14.27.47:802][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.10-14.27.47:811][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.10-14.27.47:963][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2020.03.10-14.27.48:193][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.10-14.27.48:395][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.10-14.27.48:395][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.10-14.27.48:395][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.10-14.27.48:395][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.10-14.27.48:395][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.10-14.27.48:418][  0]LogNetVersion: VREscapeRoom 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2526743875)
+[2020.03.10-14.27.48:581][  0]LogNavigation: Error: [/Script/Engine.NavigationSystem] found in the DefaultEngine.ini file. This class has been moved. Please rename that section to [/Script/NavigationSystem.NavigationSystemV1]
+[2020.03.10-14.27.49:197][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.067524 seconds
+[2020.03.10-14.27.49:202][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.03.10-14.27.49:202][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.03.10-14.27.49:202][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.10-14.27.51:242][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.10-14.27.51:245][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.10-14.27.51:319][  0]SourceControl: Source control is disabled
+[2020.03.10-14.27.51:319][  0]SourceControl: Source control is disabled
+[2020.03.10-14.27.51:321][  0]SourceControl: Source control is disabled
+[2020.03.10-14.27.51:323][  0]SourceControl: Source control is disabled
+[2020.03.10-14.27.51:477][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.10-14.27.51:711][  0]LogOcInput: OculusInput pre-init called
+[2020.03.10-14.27.52:351][  0]LogEngine: Initializing Engine...
+[2020.03.10-14.27.52:352][  0]LogHMD: Oculus plugin initialized. Version: 4.23.1-9631420+++UE4+Release-4.23, OVRPlugin: 1.37.0
+[2020.03.10-14.27.52:352][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.10-14.27.52:663][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.10-14.27.52:682][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.10-14.27.52:735][  0]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.10-14.27.52:764][  0]LogInit: FAudioDevice initialized.
+[2020.03.10-14.27.52:764][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.10-14.27.53:370][  0]LogDerivedDataCache: Saved boot cache 0.61s 77MB C:/Users/N0737367/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.03.10-14.27.53:374][  0]LogInit: Texture streaming: Enabled
+[2020.03.10-14.27.53:400][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.10-14.27.53:400][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={207A9D5D-4192-128D-A2EF-79B0AB65B737}
+[2020.03.10-14.27.53:400][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.10-14.27.53:402][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.10-14.27.53:471][  0]LogInit: Transaction tracking system initialized
+[2020.03.10-14.27.53:510][  0]BlueprintLog: New page: Editor Load
+[2020.03.10-14.27.53:612][  0]LocalizationService: Localization service is disabled
+[2020.03.10-14.27.54:097][  0]LogFileCache: Scanning file cache for directory 'C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/' took 0.01s
+[2020.03.10-14.27.54:097][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.10-14.27.54:097][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.10-14.27.54:411][  0]SourceControl: Source control is disabled
+[2020.03.10-14.27.54:411][  0]Cmd: MAP LOAD FILE="../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Maps/World1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.10-14.27.54:411][  0]LightingResults: New page: Lighting Build
+[2020.03.10-14.27.54:414][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-14.27.54:414][  0]MapCheck: New page: Map Check
+[2020.03.10-14.27.54:415][  0]LightingResults: New page: Lighting Build
+[2020.03.10-14.27.54:440][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.03.10-14.27.54:617][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand : Usage of 'Hand' has been deprecated. Please replace or remove it.
+[2020.03.10-14.27.54:617][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand : Usage of 'Set Tracking Source' has been deprecated. Please use the Motion Source property instead of Hand
+[2020.03.10-14.27.54:621][  0]LogBlueprint: Warning: [Compiler BP_MotionController] ProjectPointToNavigation_DEPRECATED : Usage of 'ProjectPointToNavigation_DEPRECATED' has been deprecated. This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2020.03.10-14.27.54:905][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Cylinder_02.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.54:906][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Cylinder_02.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.54:906][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Cylinder_02.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.54:906][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Cylinder_02.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:004][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Pickup_Items/SM_Pistol.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:004][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Pickup_Items/SM_Pistol.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:004][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Pickup_Items/SM_Pistol.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:004][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Pickup_Items/SM_Pistol.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:237][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Couch_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:237][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Couch_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:237][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Couch_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:238][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Couch_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:246][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Cylinder_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:246][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Cylinder_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:247][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Cylinder_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:247][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Cylinder_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:272][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Wall_Prop_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:272][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Wall_Prop_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:272][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Wall_Prop_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:272][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Wall_Prop_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:279][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Wall_Table_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:279][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Wall_Table_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:279][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Wall_Table_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:280][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Wall_Table_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:284][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_WallAttach_Electronics_02.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:284][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_WallAttach_Electronics_02.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:285][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_WallAttach_Electronics_02.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:285][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_WallAttach_Electronics_02.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:390][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_WallAttach_Electronics_02.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:390][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_WallAttach_Electronics_02
+[2020.03.10-14.27.55:390][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_WallAttach_Electronics_02.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:390][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_WallAttach_Electronics_02
+[2020.03.10-14.27.55:390][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_WallAttach_Electronics_02.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:390][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_WallAttach_Electronics_02
+[2020.03.10-14.27.55:391][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_WallAttach_Electronics_02.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:391][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_WallAttach_Electronics_02
+[2020.03.10-14.27.55:391][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Wall_Table_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:391][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Wall_Table_01
+[2020.03.10-14.27.55:391][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Wall_Table_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:391][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Wall_Table_01
+[2020.03.10-14.27.55:392][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Wall_Table_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:392][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Wall_Table_01
+[2020.03.10-14.27.55:392][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Wall_Table_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:392][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Wall_Table_01
+[2020.03.10-14.27.55:392][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Wall_Prop_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:393][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Wall_Prop_01
+[2020.03.10-14.27.55:393][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Wall_Prop_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:393][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Wall_Prop_01
+[2020.03.10-14.27.55:393][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Wall_Prop_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:393][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Wall_Prop_01
+[2020.03.10-14.27.55:393][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Wall_Prop_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:393][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Wall_Prop_01
+[2020.03.10-14.27.55:395][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Cylinder_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:395][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Cylinder_01
+[2020.03.10-14.27.55:395][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Cylinder_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:395][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Cylinder_01
+[2020.03.10-14.27.55:395][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Cylinder_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:395][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Cylinder_01
+[2020.03.10-14.27.55:395][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Cylinder_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:395][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Cylinder_01
+[2020.03.10-14.27.55:396][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Couch_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:397][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Couch_01
+[2020.03.10-14.27.55:397][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Couch_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:397][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Couch_01
+[2020.03.10-14.27.55:397][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Couch_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:397][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Couch_01
+[2020.03.10-14.27.55:397][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Couch_01.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:397][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Couch_01
+[2020.03.10-14.27.55:408][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Pickup_Items/SM_Pistol.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:408][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Pistol
+[2020.03.10-14.27.55:408][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Pickup_Items/SM_Pistol.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:408][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Pistol
+[2020.03.10-14.27.55:409][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Pickup_Items/SM_Pistol.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:409][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Pistol
+[2020.03.10-14.27.55:409][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Pickup_Items/SM_Pistol.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:409][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Pistol
+[2020.03.10-14.27.55:423][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Cylinder_02.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:423][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Cylinder_02
+[2020.03.10-14.27.55:424][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Cylinder_02.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:424][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Cylinder_02
+[2020.03.10-14.27.55:424][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Cylinder_02.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:424][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Cylinder_02
+[2020.03.10-14.27.55:424][  0]LogLinker: Warning: While loading '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Furnature/SM_Prop_Cylinder_02.uasset' failed to load '/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A': Can't find file.
+[2020.03.10-14.27.55:424][  0]LoadErrors: Failed to load /Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A.Mat_PolygonScifi_01_A Referenced by SM_Prop_Cylinder_02
+[2020.03.10-14.27.55:527][  0]LogStaticMesh: Building static mesh SM_Prop_Box_Empty_01...
+[2020.03.10-14.27.55:531][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Pickup_Items/SM_Prop_Box_Empty_01.SM_Prop_Box_Empty_01
+[2020.03.10-14.27.55:583][  0]LogStaticMesh: Building static mesh SM_Prop_Bottle_03...
+[2020.03.10-14.27.55:584][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Pickup_Items/SM_Prop_Bottle_03.SM_Prop_Bottle_03
+[2020.03.10-14.27.55:619][  0]LogStaticMesh: Building static mesh SM_Prop_Rubbish_Paper_01...
+[2020.03.10-14.27.55:619][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Pickup_Items/SM_Prop_Rubbish_Paper_01.SM_Prop_Rubbish_Paper_01
+[2020.03.10-14.27.55:619][  0]LogStaticMesh: Building static mesh SM_Prop_Rubbish_Paper_03...
+[2020.03.10-14.27.55:619][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Pickup_Items/SM_Prop_Rubbish_Paper_03.SM_Prop_Rubbish_Paper_03
+[2020.03.10-14.27.55:620][  0]LogStaticMesh: Building static mesh SM_Prop_Rubbish_Paper_04...
+[2020.03.10-14.27.55:620][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Pickup_Items/SM_Prop_Rubbish_Paper_04.SM_Prop_Rubbish_Paper_04
+[2020.03.10-14.27.55:621][  0]LogStaticMesh: Building static mesh SM_Prop_Rubbish_Paper_02...
+[2020.03.10-14.27.55:621][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Pickup_Items/SM_Prop_Rubbish_Paper_02.SM_Prop_Rubbish_Paper_02
+[2020.03.10-14.27.55:786][  0]LogStaticMesh: Building static mesh SM_Prop_Scanner_01...
+[2020.03.10-14.27.55:788][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Pickup_Items/SM_Prop_Scanner_01.SM_Prop_Scanner_01
+[2020.03.10-14.27.55:818][  0]LogStaticMesh: Building static mesh SM_Prop_Box_RobotParts_01...
+[2020.03.10-14.27.55:836][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Pickup_Items/SM_Prop_Box_RobotParts_01.SM_Prop_Box_RobotParts_01
+[2020.03.10-14.27.55:841][  0]LogStaticMesh: Building static mesh SM_Prop_Box_Supplies_01...
+[2020.03.10-14.27.55:844][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Pickup_Items/SM_Prop_Box_Supplies_01.SM_Prop_Box_Supplies_01
+[2020.03.10-14.27.55:910][  0]LogStaticMesh: Building static mesh SM_Prop_TrashCan_01...
+[2020.03.10-14.27.55:912][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Environment/SM_Prop_TrashCan_01.SM_Prop_TrashCan_01
+[2020.03.10-14.27.56:411][  0]LogAIModule: Creating AISystem for world World1
+[2020.03.10-14.27.56:429][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-14.27.56:434][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-14.27.56:434][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-14.27.56:434][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-14.27.56:448][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.10-14.27.56:480][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.03.10-14.27.56:480][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.10-14.27.56:480][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.269ms to complete.
+[2020.03.10-14.27.56:480][  0]LogFileHelpers: Loading map 'World1' took 2.070
+[2020.03.10-14.27.56:591][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.27.56:596][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.27.56:601][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.27.56:606][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.27.56:617][  0]LogCollectionManager: Loaded 0 collections in 0.002170 seconds
+[2020.03.10-14.27.56:623][  0]LogFileCache: Scanning file cache for directory 'C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Collections/' took 0.00s
+[2020.03.10-14.27.56:623][  0]LogFileCache: Scanning file cache for directory 'C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Developers/N0737367/Collections/' took 0.00s
+[2020.03.10-14.27.56:623][  0]LogFileCache: Scanning file cache for directory 'C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Collections/' took 0.00s
+[2020.03.10-14.27.56:623][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.03.10-14.27.56:630][  0]LogContentBrowser: Native class hierarchy populated in 0.0062 seconds. Added 2863 classes and 680 folders.
+[2020.03.10-14.27.56:636][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.10-14.27.56:843][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.10-14.27.56:849][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.03.10-14.27.56:868][  0]LogSlate: Took 0.003617 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.10-14.27.56:872][  0]LogSlate: Took 0.003347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.10-14.27.56:879][  0]LogSlate: Took 0.003844 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.10-14.27.56:990][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 26 NumSamples 1 (Frame:1).
+[2020.03.10-14.27.57:080][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.03.10-14.27.57:111][  0]LogSlate: Window 'Tutorials' being destroyed
+[2020.03.10-14.27.57:120][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.10-14.27.57:120][  0]LogLoad: (Engine Initialization) Total time: 18.02 seconds
+[2020.03.10-14.27.57:120][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.10-14.27.57:137][  0]LogOcInput: OculusInput is initialized
+[2020.03.10-14.27.57:181][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.10-14.27.57:184][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.03.10-14.27.57:218][  0]LogSlate: Took 0.003549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.10-14.27.57:603][  7]LogAssetRegistry: Asset discovery search completed in 9.6413 seconds
+[2020.03.10-14.27.57:606][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.03.10-14.27.57:606][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2020.03.10-14.28.04:896][259]LogSlate: Window 'Message Log' being destroyed
+[2020.03.10-14.28.04:900][259]LogSlate: Window 'Message Log' being destroyed
+[2020.03.10-14.28.43:856][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.28.44:098][939]PIE: Warning: Constraint in '/Engine/Transient.World_6:PersistentLevel.BP_InteractableActor_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.03.10-14.28.50:207][645]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.10-14.28.50:266][645]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Mat_Sparks7C2BE3F948235382F60E609DEDF9E91A.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/ParticleSystems/Mat_Sparks.uasset'
+[2020.03.10-14.28.50:362][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.03.10-14.28.50:388][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.03.10-14.28.50:408][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.03.10-14.28.50:529][645]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/SparksPart98CDAF0A4B397991BFE9DAA0732BCC48.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/ParticleSystems/SparksPart.uasset'
+[2020.03.10-14.28.56:168][309]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Part_Sparks959C2C474311C90622600ABE93A2F103.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/ParticleSystems/Part_Sparks.uasset'
+[2020.03.10-14.28.56:258][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.03.10-14.28.56:283][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.03.10-14.28.56:304][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.03.10-14.28.56:322][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Hammer" FILE="../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/BP_Hammer.uasset" SILENT=true
+[2020.03.10-14.28.56:441][309]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/BP_HammerF731C5E145F326747419A6BCEA0FE482.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/BP_Hammer.uasset'
+[2020.03.10-14.29.07:480][618]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/BluePrints/ParticleSystems/Part_Sparks_Small.Part_Sparks_Small
+[2020.03.10-14.29.07:524][618]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0002 seconds. Added 2 classes and 2 folders.
+[2020.03.10-14.29.27:378][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.29.42:701][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.29.59:455][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.30.05:357][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.30.17:492][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.30.18:560][945]LogEditorTransaction: Undo Edit Z
+[2020.03.10-14.30.19:064][  1]LogEditorTransaction: Undo Edit Z
+[2020.03.10-14.30.37:293][173]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Part_Sparks_Small385205B44E67D2718E328C86A2072A0B.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/ParticleSystems/Part_Sparks_Small.uasset'
+[2020.03.10-14.30.42:259][766]LogEditorViewport: Clicking on Actor (LMB): Fuse_Slot_C (Fuse_Slot)
+[2020.03.10-14.30.48:032][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.30.48:106][462]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/Fuse_Slot.Fuse_Slot
+[2020.03.10-14.30.48:336][462]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.03.10-14.30.49:047][462]LogSlate: Took 0.003642 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.10-14.30.49:096][463]LogSlate: Took 0.003807 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.10-14.31.57:352][182]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={B884B0FA-48A8-641D-5857-FC8ED643C533}
+[2020.03.10-14.35.38:042][703]BlueprintLog: New page: Compile Fuse_Slot
+[2020.03.10-14.35.38:229][703]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.03.10-14.35.54:707][528]LogEditorTransaction: Undo Move Node
+[2020.03.10-14.37.41:992][527]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.10-14.37.53:607][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.38.27:707][180]BlueprintLog: New page: Compile Fuse_Slot
+[2020.03.10-14.38.27:874][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.03.10-14.39.06:354][398]BlueprintLog: New page: Compile Fuse_Slot
+[2020.03.10-14.39.06:508][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.03.10-14.39.15:477][402]BlueprintLog: New page: Compile Fuse_Slot
+[2020.03.10-14.39.15:632][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.03.10-14.39.16:424][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Fuse_Slot" FILE="../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/Fuse_Slot.uasset" SILENT=true
+[2020.03.10-14.39.16:526][482]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Fuse_Slot832618554087AC60E89135BF2B80302C.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/Fuse_Slot.uasset'
+[2020.03.10-14.39.56:839][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.40.01:290][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.40.04:689][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.40.13:022][996]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.10-14.40.15:138][248]LogEditorViewport: Clicking on Actor (LMB): Fuse_Slot_C (Fuse_Slot)
+[2020.03.10-14.40.22:152][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.40.22:219][ 86]LogTemp: Repeating last play command: Simulate
+[2020.03.10-14.40.22:240][ 86]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.40.22:240][ 86]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.10-14.40.22:241][ 86]LogPlayLevel: [PlayLevel] Compiling BP_Hammer before play...
+[2020.03.10-14.40.22:402][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.03.10-14.40.22:402][ 86]LogPlayLevel: PlayLevel: Blueprint regeneration took 162 ms (1 blueprints)
+[2020.03.10-14.40.22:403][ 86]PIE: New page: SIE session: World1 (10 Mar 2020 14:40:22)
+[2020.03.10-14.40.22:404][ 86]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.10-14.40.22:405][ 86]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.40.22:416][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009784s)
+[2020.03.10-14.40.22:416][ 86]LogAIModule: Creating AISystem for world World1
+[2020.03.10-14.40.22:417][ 86]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2020.03.10-14.40.22:417][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.011255s)
+[2020.03.10-14.40.22:444][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.03.10-14.40.22:494][ 86]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.10-14.40.22:511][ 86]LogInit: FAudioDevice initialized.
+[2020.03.10-14.40.22:522][ 86]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.10-14.40.22:522][ 86]LogLoad: Game class is 'GameModeBase'
+[2020.03.10-14.40.22:524][ 86]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-14.40.22:526][ 86]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.10-14.40.22
+[2020.03.10-14.40.22:527][ 86]LogWorld: Bringing up level for play took: 0.004045
+[2020.03.10-14.40.22:527][ 86]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.03.10-14.40.22:528][ 86]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.10-14.40.22:537][ 86]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.03.10-14.40.22:540][ 86]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 0.218
+[2020.03.10-14.40.22:553][ 86]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.40.25:029][346]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.40.25:029][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.40.25:029][346]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.40.25:030][346]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-14.40.25:041][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.10-14.40.25:042][346]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.40.25:076][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.40.25:109][346]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.03.10-14.40.25:129][348]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.03.10-14.40.27:889][679]LogEditorViewport: Clicking on Actor (LMB): Fuse_Slot_C (Fuse_Slot)
+[2020.03.10-14.40.30:910][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.40.39:306][ 32]LogTemp: Repeating last play command: Simulate
+[2020.03.10-14.40.39:324][ 32]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.40.39:324][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.10-14.40.39:324][ 32]PIE: New page: SIE session: World1 (10 Mar 2020 14:40:39)
+[2020.03.10-14.40.39:324][ 32]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.40.39:336][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012009s)
+[2020.03.10-14.40.39:336][ 32]LogAIModule: Creating AISystem for world World1
+[2020.03.10-14.40.39:337][ 32]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2020.03.10-14.40.39:337][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.012861s)
+[2020.03.10-14.40.39:373][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.03.10-14.40.39:424][ 32]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.10-14.40.39:441][ 32]LogInit: FAudioDevice initialized.
+[2020.03.10-14.40.39:448][ 32]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.10-14.40.39:448][ 32]LogLoad: Game class is 'GameModeBase'
+[2020.03.10-14.40.39:450][ 32]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-14.40.39:452][ 32]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.10-14.40.39
+[2020.03.10-14.40.39:452][ 32]LogWorld: Bringing up level for play took: 0.003616
+[2020.03.10-14.40.39:452][ 32]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.03.10-14.40.39:454][ 32]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.10-14.40.39:456][ 32]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 -0.865
+[2020.03.10-14.40.39:460][ 32]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.40.41:118][230]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.40.41:118][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.40.41:118][230]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.40.41:119][230]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-14.40.41:126][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.10-14.40.41:126][230]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.40.41:163][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.40.41:166][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.03.10-14.40.41:219][236]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.03.10-14.40.41:964][325]LogEditorViewport: Clicking on Actor (LMB): BP_Fuse_C (BP_Fuse)
+[2020.03.10-14.40.44:254][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.40.44:345][605]LogTemp: Repeating last play command: Simulate
+[2020.03.10-14.40.44:362][605]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.40.44:362][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.10-14.40.44:363][605]PIE: New page: SIE session: World1 (10 Mar 2020 14:40:44)
+[2020.03.10-14.40.44:363][605]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.40.44:372][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009286s)
+[2020.03.10-14.40.44:373][605]LogAIModule: Creating AISystem for world World1
+[2020.03.10-14.40.44:373][605]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2020.03.10-14.40.44:373][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.010137s)
+[2020.03.10-14.40.44:404][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.03.10-14.40.44:453][605]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.10-14.40.44:471][605]LogInit: FAudioDevice initialized.
+[2020.03.10-14.40.44:479][605]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.10-14.40.44:479][605]LogLoad: Game class is 'GameModeBase'
+[2020.03.10-14.40.44:481][605]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-14.40.44:483][605]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.10-14.40.44
+[2020.03.10-14.40.44:483][605]LogWorld: Bringing up level for play took: 0.003623
+[2020.03.10-14.40.44:484][605]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.03.10-14.40.44:485][605]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.10-14.40.44:487][605]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 0.167
+[2020.03.10-14.40.44:498][605]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.40.46:833][847]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.40.46:834][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.40.46:834][847]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.40.46:835][847]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-14.40.46:844][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.10-14.40.46:844][847]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.40.46:879][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.40.46:883][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.03.10-14.40.46:936][853]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.03.10-14.40.47:798][956]LogEditorViewport: Clicking on Actor (LMB): BP_Fuse_C (BP_Fuse)
+[2020.03.10-14.40.49:674][176]LogEditorViewport: Clicking on Actor (LMB): Fuse_Slot_C (Fuse_Slot)
+[2020.03.10-14.40.53:367][616]LogEditorViewport: Clicking on Actor (LMB): BP_Fuse_C (BP_Fuse)
+[2020.03.10-14.40.58:280][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.40.58:346][209]LogTemp: Repeating last play command: Simulate
+[2020.03.10-14.40.58:362][209]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.40.58:362][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.10-14.40.58:363][209]PIE: New page: SIE session: World1 (10 Mar 2020 14:40:58)
+[2020.03.10-14.40.58:363][209]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.40.58:372][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009464s)
+[2020.03.10-14.40.58:373][209]LogAIModule: Creating AISystem for world World1
+[2020.03.10-14.40.58:373][209]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2020.03.10-14.40.58:373][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.010258s)
+[2020.03.10-14.40.58:405][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.03.10-14.40.58:455][209]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.10-14.40.58:472][209]LogInit: FAudioDevice initialized.
+[2020.03.10-14.40.58:480][209]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.10-14.40.58:480][209]LogLoad: Game class is 'GameModeBase'
+[2020.03.10-14.40.58:482][209]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-14.40.58:484][209]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.10-14.40.58
+[2020.03.10-14.40.58:484][209]LogWorld: Bringing up level for play took: 0.003622
+[2020.03.10-14.40.58:485][209]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.03.10-14.40.58:486][209]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.10-14.40.58:488][209]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 0.169
+[2020.03.10-14.40.58:499][209]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.41.00:766][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.41.00:767][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.41.00:767][446]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.41.00:768][446]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-14.41.00:776][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.10-14.41.00:776][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.41.00:813][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.41.00:817][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.03.10-14.41.00:868][451]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.03.10-14.41.02:486][645]LogEditorViewport: Clicking on Actor (LMB): BP_Fuse_C (BP_Fuse)
+[2020.03.10-14.41.09:292][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.41.09:350][462]LogTemp: Repeating last play command: Simulate
+[2020.03.10-14.41.09:367][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.41.09:367][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.10-14.41.09:367][462]PIE: New page: SIE session: World1 (10 Mar 2020 14:41:09)
+[2020.03.10-14.41.09:367][462]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.41.09:377][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009262s)
+[2020.03.10-14.41.09:377][462]LogAIModule: Creating AISystem for world World1
+[2020.03.10-14.41.09:377][462]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2020.03.10-14.41.09:378][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.010042s)
+[2020.03.10-14.41.09:409][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.03.10-14.41.09:457][462]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.10-14.41.09:474][462]LogInit: FAudioDevice initialized.
+[2020.03.10-14.41.09:482][462]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.10-14.41.09:482][462]LogLoad: Game class is 'GameModeBase'
+[2020.03.10-14.41.09:484][462]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-14.41.09:486][462]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.10-14.41.09
+[2020.03.10-14.41.09:486][462]LogWorld: Bringing up level for play took: 0.003582
+[2020.03.10-14.41.09:487][462]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.03.10-14.41.09:488][462]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.10-14.41.09:490][462]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 -0.829
+[2020.03.10-14.41.09:501][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.41.15:823][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.41.15:907][169]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.41.15:908][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.41.15:908][169]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.41.15:909][169]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-14.41.15:920][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.10-14.41.15:920][169]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.41.15:958][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.41.15:961][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.03.10-14.41.16:007][174]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.03.10-14.41.18:985][531]LogEditorViewport: Clicking on Actor (LMB): BP_Fuse_C (BP_Fuse)
+[2020.03.10-14.41.23:538][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.41.25:797][343]LogTemp: Repeating last play command: Simulate
+[2020.03.10-14.41.25:814][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.41.25:815][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.10-14.41.25:815][343]PIE: New page: SIE session: World1 (10 Mar 2020 14:41:25)
+[2020.03.10-14.41.25:815][343]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.41.25:824][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009476s)
+[2020.03.10-14.41.25:825][343]LogAIModule: Creating AISystem for world World1
+[2020.03.10-14.41.25:825][343]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2020.03.10-14.41.25:825][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.010255s)
+[2020.03.10-14.41.25:856][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.03.10-14.41.25:904][343]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.10-14.41.25:921][343]LogInit: FAudioDevice initialized.
+[2020.03.10-14.41.25:929][343]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.10-14.41.25:929][343]LogLoad: Game class is 'GameModeBase'
+[2020.03.10-14.41.25:932][343]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-14.41.25:934][343]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.10-14.41.25
+[2020.03.10-14.41.25:934][343]LogWorld: Bringing up level for play took: 0.003561
+[2020.03.10-14.41.25:934][343]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.03.10-14.41.25:935][343]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.10-14.41.25:937][343]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 -0.381
+[2020.03.10-14.41.25:948][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.41.29:843][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.41.29:969][789]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.41.29:969][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.41.29:969][789]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.41.29:970][789]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-14.41.29:983][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.10-14.41.29:983][789]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.41.30:019][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.41.30:022][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.03.10-14.41.30:068][793]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.03.10-14.41.31:327][944]LogEditorViewport: Clicking on Actor (LMB): BP_Fuse_C (BP_Fuse)
+[2020.03.10-14.41.35:789][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.41.47:768][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.41.47:843][891]LogTemp: Repeating last play command: Simulate
+[2020.03.10-14.41.47:861][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.41.47:861][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.10-14.41.47:861][891]PIE: New page: SIE session: World1 (10 Mar 2020 14:41:47)
+[2020.03.10-14.41.47:861][891]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.41.47:872][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010457s)
+[2020.03.10-14.41.47:873][891]LogAIModule: Creating AISystem for world World1
+[2020.03.10-14.41.47:873][891]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2020.03.10-14.41.47:873][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.011456s)
+[2020.03.10-14.41.47:903][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.03.10-14.41.47:960][891]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.10-14.41.47:978][891]LogInit: FAudioDevice initialized.
+[2020.03.10-14.41.47:987][891]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.10-14.41.47:987][891]LogLoad: Game class is 'GameModeBase'
+[2020.03.10-14.41.47:991][891]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-14.41.47:995][891]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.10-14.41.47
+[2020.03.10-14.41.47:996][891]LogWorld: Bringing up level for play took: 0.007192
+[2020.03.10-14.41.47:996][891]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.03.10-14.41.47:998][891]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.10-14.41.48:001][891]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 -0.316
+[2020.03.10-14.41.48:017][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.41.49:971][105]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.41.49:971][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.41.49:971][105]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.41.49:972][105]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-14.41.49:979][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.10-14.41.49:979][105]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.41.50:013][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.41.50:016][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.03.10-14.41.50:069][110]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.03.10-14.41.51:002][222]LogEditorViewport: Clicking on Actor (LMB): BP_Fuse_C (BP_Fuse)
+[2020.03.10-14.41.57:345][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.41.57:420][965]LogTemp: Repeating last play command: Simulate
+[2020.03.10-14.41.57:436][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.41.57:436][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.10-14.41.57:437][965]PIE: New page: SIE session: World1 (10 Mar 2020 14:41:57)
+[2020.03.10-14.41.57:437][965]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.41.57:446][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009117s)
+[2020.03.10-14.41.57:446][965]LogAIModule: Creating AISystem for world World1
+[2020.03.10-14.41.57:446][965]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2020.03.10-14.41.57:446][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.009883s)
+[2020.03.10-14.41.57:478][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.03.10-14.41.57:528][965]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.10-14.41.57:545][965]LogInit: FAudioDevice initialized.
+[2020.03.10-14.41.57:549][965]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.10-14.41.57:549][965]LogLoad: Game class is 'GameModeBase'
+[2020.03.10-14.41.57:551][965]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-14.41.57:553][965]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.10-14.41.57
+[2020.03.10-14.41.57:553][965]LogWorld: Bringing up level for play took: 0.003490
+[2020.03.10-14.41.57:553][965]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.03.10-14.41.57:555][965]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.10-14.41.57:557][965]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 -0.76
+[2020.03.10-14.41.57:567][965]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.42.01:480][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.42.01:582][421]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.42.01:582][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.42.01:582][421]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.42.01:583][421]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-14.42.01:592][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.10-14.42.01:592][421]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.42.01:628][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.42.01:632][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.03.10-14.42.01:684][427]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.03.10-14.42.03:044][590]LogEditorViewport: Clicking on Actor (LMB): Fuse_Slot_C (Fuse_Slot)
+[2020.03.10-14.42.05:667][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.42.22:439][887]LogEditorViewport: Clicking on Actor (LMB): BP_Fuse_C (BP_Fuse)
+[2020.03.10-14.42.28:351][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.42.28:425][597]LogTemp: Repeating last play command: Simulate
+[2020.03.10-14.42.28:446][597]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.42.28:446][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.10-14.42.28:446][597]PIE: New page: SIE session: World1 (10 Mar 2020 14:42:28)
+[2020.03.10-14.42.28:446][597]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.42.28:455][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009102s)
+[2020.03.10-14.42.28:456][597]LogAIModule: Creating AISystem for world World1
+[2020.03.10-14.42.28:456][597]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2020.03.10-14.42.28:456][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.010139s)
+[2020.03.10-14.42.28:489][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.03.10-14.42.28:538][597]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.10-14.42.28:555][597]LogInit: FAudioDevice initialized.
+[2020.03.10-14.42.28:563][597]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.10-14.42.28:563][597]LogLoad: Game class is 'GameModeBase'
+[2020.03.10-14.42.28:565][597]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-14.42.28:567][597]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.10-14.42.28
+[2020.03.10-14.42.28:567][597]LogWorld: Bringing up level for play took: 0.003506
+[2020.03.10-14.42.28:568][597]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.03.10-14.42.28:569][597]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.10-14.42.28:571][597]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 0.256
+[2020.03.10-14.42.28:582][597]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.42.32:542][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.42.32:635][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.42.32:635][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.42.32:635][ 31]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.10-14.42.32:636][ 31]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-14.42.32:645][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.10-14.42.32:645][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-14.42.32:681][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-14.42.32:685][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.03.10-14.42.32:738][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.03.10-14.44.14:378][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.44.18:373][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.44.18:512][500]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BP_Slot.BP_Slot
+[2020.03.10-14.44.35:682][386]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BI_SlotActor.BI_SlotActor
+[2020.03.10-14.44.47:038][711]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-14.44.56:830][806]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BI_SlotActor.BI_SlotActor
+[2020.03.10-14.45.33:157][ 18]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-14.45.44:178][292]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-14.45.52:225][240]BlueprintLog: New page: Compile Fuse_Slot
+[2020.03.10-14.45.52:420][240]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.03.10-14.46.50:743][969]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BP_Slot.BP_Slot
+[2020.03.10-14.51.07:447][817]LogSlate: Took 0.021835 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.10-14.51.39:025][425]BlueprintLog: New page: Compile BP_Slot
+[2020.03.10-14.51.39:043][425]LogBlueprint: Error: [Compiler BP_Slot] Could not find a function named "SlotFilled" in 'BP_Slot_C'.
+Make sure 'BP_Slot_C' has been compiled for  Slot Filled
+[2020.03.10-14.51.39:273][425]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.03.10-14.51.52:142][937]BlueprintLog: New page: Compile BP_Slot
+[2020.03.10-14.51.52:355][937]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.03.10-14.52.36:441][995]BlueprintLog: New page: Compile Fuse_Slot
+[2020.03.10-14.52.36:660][995]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.03.10-14.52.38:947][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Fuse_Slot" FILE="../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/Fuse_Slot.uasset" SILENT=true
+[2020.03.10-14.52.39:053][254]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Fuse_Slot26CCFB264FB235D53B400A89E8331242.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/Fuse_Slot.uasset'
+[2020.03.10-14.52.39:391][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.52.40:897][437]LogSlate: Window 'BP_Slot' being destroyed
+[2020.03.10-14.52.41:533][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.52.41:640][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Slot" FILE="../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/BP_Slot.uasset" SILENT=true
+[2020.03.10-14.52.41:772][521]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/BP_SlotB7F8EEC349A65FBA7DCDB7B31BC93214.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/BP_Slot.uasset'
+[2020.03.10-14.53.05:780][388]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.03.10-14.53.05:844][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.03.10-14.53.06:270][388]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/World1_Auto16CB2B67E4E356E10DDF2CF8B41E73DE4.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Autosaves/Game/Maps/World1_Auto1.umap'
+[2020.03.10-14.53.06:284][388]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/World1' took 0.475
+[2020.03.10-14.53.06:284][388]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.475
+[2020.03.10-14.53.10:318][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.53.10:433][880]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-14.53.44:301][816]BlueprintLog: New page: Compile Fuse_Slot
+[2020.03.10-14.53.44:525][816]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.03.10-14.53.48:385][244]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BP_Slot.BP_Slot
+[2020.03.10-14.54.41:846][150]BlueprintLog: New page: Compile BP_Slot
+[2020.03.10-14.54.42:158][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.03.10-14.55.21:335][304]BlueprintLog: New page: Compile BP_Slot
+[2020.03.10-14.55.21:558][304]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.03.10-14.56.32:434][630]BlueprintLog: New page: Compile Fuse_Slot
+[2020.03.10-14.56.32:640][630]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.03.10-14.56.35:875][ 13]LogSlate: Window 'BP_Slot' being destroyed
+[2020.03.10-14.56.35:878][ 13]LogSlate: Window 'BP_Slot' being destroyed
+[2020.03.10-14.56.35:878][ 13]LogCascade: Quitting Cascade. FXSystem=0x000001DF8E664400
+[2020.03.10-14.56.35:915][ 13]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-14.56.35:955][ 13]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-14.56.36:031][ 13]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.10-14.56.36:031][ 13]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-14.56.38:519][304]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.03.10-14.56.40:590][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.03.10-14.56.40:597][546]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.03.10-14.56.40:602][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/World1" FILE="../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Maps/World1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.10-14.56.40:650][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.03.10-14.56.41:038][546]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/World17323FD2A48DF2FBD00E204ACD283978F.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Maps/World1.umap'
+[2020.03.10-14.56.41:078][546]LogFileHelpers: Saving map 'World1' took 0.476
+[2020.03.10-14.56.41:087][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Slot" FILE="../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/BP_Slot.uasset" SILENT=true
+[2020.03.10-14.56.41:215][546]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/BP_SlotDACC41F7449369CC1DC421B123EC21C8.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/BP_Slot.uasset'
+[2020.03.10-14.56.41:231][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Fuse_Slot" FILE="../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/Fuse_Slot.uasset" SILENT=true
+[2020.03.10-14.56.41:323][546]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Fuse_Slot34450B6845A82A75FDB9849FF13904B0.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/Fuse_Slot.uasset'
+[2020.03.10-14.56.42:398][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.56.42:515][685]MapCheck: New page: Map Check
+[2020.03.10-14.56.42:526][685]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.10-14.56.42:526][685]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.10-14.56.42:533][685]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=false
+[2020.03.10-14.56.42:537][685]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-14.56.42:544][685]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-14.56.42:544][685]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-14.56.42:544][685]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-14.56.42:604][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.03.10-14.56.42:660][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:669][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:675][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:682][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:688][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:695][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:701][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:711][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:718][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:725][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:732][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:738][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:745][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:751][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:758][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:764][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:770][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:777][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:783][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:794][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:800][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.42:808][685]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-14.56.54:189][685]TextureStreamingBuild: Display: Compiling optional shaders took 11.537 seconds.
+[2020.03.10-14.56.54:213][685]LogLevel: Display: Export Material TexCoord Scales took 0.024 seconds.
+[2020.03.10-14.56.54:277][685]TextureStreamingBuild: Display: Build Texture Streaming took 0.064 seconds.
+[2020.03.10-14.56.54:312][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.03.10-14.56.54:313][685]LightingResults: New page: Lighting Build - 10 Mar 2020 14:56:54
+[2020.03.10-14.56.54:363][685]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.10-14.56.54:783][685]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.10-14.56.54:801][685]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.10-14.56.55:309][685]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.10-14.56.55:310][685]LogSwarmInterface: [TryOpenConnection] Local Process ID is 31908
+[2020.03.10-14.57.19:158][685]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.03.10-14.57.19:159][685]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.10-14.57.19:159][685]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.10-14.57.19:159][685]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.10-14.57.19:159][685]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.10-14.57.19:159][685]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.10-14.57.19:357][685]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.03.10-14.57.19:357][685]MapCheck: New page: World1 - 10 Mar 2020 14:57:19
+[2020.03.10-14.57.19:363][685]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.03.10-14.57.19:364][685]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 6.965ms to complete.
+[2020.03.10-14.57.19:366][685]LogEditorBuildUtils: Build time 0:36
+[2020.03.10-14.57.19:831][686]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_PolygonScifi_03_B, compiling. 
+[2020.03.10-14.57.19:847][686]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_PolygonScifi_03_B, compiling. 
+[2020.03.10-14.57.19:883][687]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_PolygonScifi_01_F, compiling. 
+[2020.03.10-14.57.19:890][687]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_PolygonScifi_01_F, compiling. 
+[2020.03.10-14.57.19:921][688]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_PolygonScifi_01_B, compiling. 
+[2020.03.10-14.57.19:930][688]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_PolygonScifi_01_B, compiling. 
+[2020.03.10-14.57.25:687][695]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.03.10-14.57.28:461][819]Job is a success!
+[2020.03.10-14.57.28:563][819]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2020.03.10-14.57.28:563][819]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.03.10-14.57.28:563][819]LogVolumetricLightmapImport:      BrickData 100x5x5 = 0.1Mb
+[2020.03.10-14.57.28:563][819]LogVolumetricLightmapImport:      Bricks at Level
+[2020.03.10-14.57.28:563][819]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2020.03.10-14.57.28:563][819]LogVolumetricLightmapImport:          1: 5.0% covering 1.6% of volume
+[2020.03.10-14.57.28:563][819]LogVolumetricLightmapImport:          2: 90.0% covering 0.4% of volume
+[2020.03.10-14.57.29:155][819]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.03.10-14.57.29:155][819]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.03.10-14.57.29:155][819]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2020.03.10-14.57.29:155][819]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.03.10-14.57.29:155][819]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.03.10-14.57.29:155][819]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.03.10-14.57.29:298][819]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.03.10-14.57.29:298][819]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X256)
+[2020.03.10-14.57.29:321][819]Lightmass on ERD177-18: 2.64 sec total, 309 ms importing, 30 ms setup, 159 ms photons, 2.10 sec processing, 0 ms extra exporting [41/41 mappings]. Threads: 23.1 sec total, 8.90 sec processing.
+[2020.03.10-14.57.29:323][819]LogStaticLightingSystem: World1_BuiltData storing lightmap data for 41 meshes in 2 LightmapResourceClusters (20.5 Meshes per cluster).
+[2020.03.10-14.57.29:325][819]LogMaterial: Display: Material /Game/Materials/Asset_Materials/Alternates/Mat_PolygonScifi_03_B.Mat_PolygonScifi_03_B needed to have new flag set bUsedWithStaticLighting !
+[2020.03.10-14.57.29:331][819]LogMaterial: Display: Missing cached shader map for material Mat_PolygonScifi_03_B, compiling. 
+[2020.03.10-14.57.29:695][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.03.10-14.57.29:748][819]LogStaticLightingSystem: Illumination: 35.4 sec (586 ms encoding lightmaps, 103 ms encoding shadowmaps)
+[2020.03.10-14.57.29:748][819]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.03.10-14.57.29:748][819]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.03.10-14.57.30:171][819]DumpUnbuiltLightIteractions
+[2020.03.10-14.57.30:171][819]Lights with unbuilt interactions: 0
+[2020.03.10-14.57.30:171][819]
+[2020.03.10-14.57.30:171][819]Primitives with unbuilt interactions: 0
+[2020.03.10-14.57.30:176][819]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.03.10-14.57.44:327][820]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.10-14.57.44:327][820]MapCheck: New page: World1 - 10 Mar 2020 14:57:44
+[2020.03.10-14.57.44:328][820]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.962ms to complete.
+[2020.03.10-14.57.56:845][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.57.56:927][321]LogSlate: Window 'Message Log' being destroyed
+[2020.03.10-14.57.56:931][321]LogSlate: Window 'Message Log' being destroyed
+[2020.03.10-14.58.38:640][277]PIE: Warning: Constraint in '/Engine/Transient.World_6:PersistentLevel.BP_InteractableActor_C_1.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.03.10-14.58.39:344][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.58.39:496][354]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BP_PickupObject.BP_PickupObject
+[2020.03.10-14.58.58:452][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.59.23:956][559]LogEditorViewport: Clicking on Actor (LMB): BP_PickupObject_C (PickupRobotPart10)
+[2020.03.10-14.59.41:712][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-14.59.43:614][655]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BP_PickupGun.BP_PickupGun
+[2020.03.10-15.00.17:802][371]BlueprintLog: New page: Compile BP_PickupObject
+[2020.03.10-15.00.18:142][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.03.10-15.01.26:530][121]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.03.10-15.01.29:600][414]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.03.10-15.01.29:604][414]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.03.10-15.01.49:276][610]LogSlate: Window 'BP_PickupGun' being destroyed
+[2020.03.10-15.02.23:431][652]BlueprintLog: New page: Compile BP_PickupObject
+[2020.03.10-15.02.23:460][652]LogClass: Warning: Property HoldNode of HoldNode has a struct type mismatch (tag Vector != prop Transform) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.03.10-15.02.23:461][652]LogClass: Warning: Property HoldNode of HoldNode has a struct type mismatch (tag Vector != prop Transform) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.03.10-15.02.23:461][652]LogClass: Warning: Property HoldNode of HoldNode has a struct type mismatch (tag Vector != prop Transform) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.03.10-15.02.23:461][652]LogClass: Warning: Property HoldNode of HoldNode has a struct type mismatch (tag Vector != prop Transform) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.03.10-15.02.23:681][652]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.03.10-15.02.30:132][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.02.31:543][504]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.10-15.02.44:538][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.03.09:097][772]LogEditorViewport: Clicking on Actor (LMB): BP_PickupObject_C (BP_PickupObject4)
+[2020.03.10-15.03.10:177][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.03.22:917][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.03.47:545][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/World1" FILE="../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Maps/World1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.10-15.03.47:586][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.03.10-15.03.47:991][ 34]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/World1DACB72EF4F27C227FFD6FD8962528E39.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Maps/World1.umap'
+[2020.03.10-15.03.48:062][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/World1_BuiltData" FILE="../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Maps/World1_BuiltData.uasset" SILENT=true
+[2020.03.10-15.03.48:332][ 34]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/World1_BuiltData4484D1DD4A3819EC305792B696A9FD70.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Maps/World1_BuiltData.uasset'
+[2020.03.10-15.03.52:554][532]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2020.03.10-15.03.56:362][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.03.56:435][986]LogTemp: Repeating last play command: Simulate
+[2020.03.10-15.03.56:453][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.03.56:453][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.10-15.03.56:453][986]PIE: New page: SIE session: World1 (10 Mar 2020 15:03:56)
+[2020.03.10-15.03.56:454][986]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.10-15.03.56:464][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010086s)
+[2020.03.10-15.03.56:465][986]LogAIModule: Creating AISystem for world World1
+[2020.03.10-15.03.56:465][986]LogPlayLevel: PIE: World Init took: (0.001223s)
+[2020.03.10-15.03.56:465][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.011450s)
+[2020.03.10-15.03.56:496][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.03.10-15.03.56:547][986]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.10-15.03.56:566][986]LogInit: FAudioDevice initialized.
+[2020.03.10-15.03.56:576][986]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.10-15.03.56:576][986]LogLoad: Game class is 'GameModeBase'
+[2020.03.10-15.03.56:578][986]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-15.03.56:581][986]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.10-15.03.56
+[2020.03.10-15.03.56:581][986]LogWorld: Bringing up level for play took: 0.004901
+[2020.03.10-15.03.56:582][986]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.03.10-15.03.56:583][986]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.10-15.03.56:586][986]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 0.334
+[2020.03.10-15.03.56:591][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.04.01:758][599]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.04.01:758][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-15.04.01:758][599]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.10-15.04.01:759][599]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.04.01:782][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.10-15.04.01:782][599]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.04.01:820][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-15.04.01:824][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.03.10-15.04.01:861][602]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.03.10-15.04.04:216][882]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.04.04:216][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.10-15.04.04:237][882]LogHMD: Initializing OVRPlugin session
+[2020.03.10-15.04.04:381][882]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.03.10-15.04.04:381][882]PIE: New page: PIE session: World1 (10 Mar 2020 15:04:04)
+[2020.03.10-15.04.04:381][882]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.10-15.04.04:391][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010045s)
+[2020.03.10-15.04.04:392][882]LogAIModule: Creating AISystem for world World1
+[2020.03.10-15.04.04:392][882]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2020.03.10-15.04.04:392][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.011136s)
+[2020.03.10-15.04.04:423][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.03.10-15.04.04:477][882]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.10-15.04.04:495][882]LogInit: FAudioDevice initialized.
+[2020.03.10-15.04.04:501][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-15.04.04:519][882]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.10-15.04.04:519][882]LogLoad: Game class is 'GameModeBase'
+[2020.03.10-15.04.04:521][882]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-15.04.04:523][882]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.10-15.04.04
+[2020.03.10-15.04.04:524][882]LogWorld: Bringing up level for play took: 0.004121
+[2020.03.10-15.04.04:524][882]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.03.10-15.04.04:530][882]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 0.279
+[2020.03.10-15.04.04:530][882]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.04.04:530][882]LogEngine: Changing dynamic resolution state.
+[2020.03.10-15.04.04:544][882]LogRenderer: Reallocating scene render targets to support 2688x1600 Format 26 NumSamples 1 (Frame:1).
+[2020.03.10-15.04.04:544][882]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.03.10-15.06.01:264][246]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.06.01:284][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-15.06.01:284][246]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.10-15.06.01:319][246]LogSlate: Window 'VREscapeRoom Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.10-15.06.01:322][246]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.06.01:336][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.10-15.06.01:336][246]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.06.01:381][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.03.10-15.06.01:399][247]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.03.10-15.06.01:399][247]LogEngine: Changing dynamic resolution state.
+[2020.03.10-15.07.35:073][339]BlueprintLog: New page: Compile BP_PickupObject
+[2020.03.10-15.07.35:297][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.03.10-15.07.36:305][453]LogTemp: Repeating last play command: VR Preview
+[2020.03.10-15.07.36:322][453]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.07.36:322][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.10-15.07.36:322][453]LogHMD: Initializing OVRPlugin session
+[2020.03.10-15.07.36:415][453]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.03.10-15.07.36:416][453]PIE: New page: PIE session: World1 (10 Mar 2020 15:07:36)
+[2020.03.10-15.07.36:416][453]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.10-15.07.36:426][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010558s)
+[2020.03.10-15.07.36:427][453]LogAIModule: Creating AISystem for world World1
+[2020.03.10-15.07.36:427][453]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2020.03.10-15.07.36:427][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.011589s)
+[2020.03.10-15.07.36:456][453]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.03.10-15.07.36:511][453]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.10-15.07.36:532][453]LogInit: FAudioDevice initialized.
+[2020.03.10-15.07.36:540][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-15.07.36:555][453]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.10-15.07.36:555][453]LogLoad: Game class is 'GameModeBase'
+[2020.03.10-15.07.36:557][453]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-15.07.36:559][453]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.10-15.07.36
+[2020.03.10-15.07.36:560][453]LogWorld: Bringing up level for play took: 0.003805
+[2020.03.10-15.07.36:560][453]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.03.10-15.07.36:561][453]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.10-15.07.36:566][453]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 0.325
+[2020.03.10-15.07.36:566][453]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.07.36:566][453]LogEngine: Changing dynamic resolution state.
+[2020.03.10-15.07.36:571][453]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.03.10-15.07.54:666][215]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.07.54:688][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-15.07.54:688][215]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.10-15.07.54:729][215]LogSlate: Window 'VREscapeRoom Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.10-15.07.54:732][215]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.07.54:748][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.10-15.07.54:748][215]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.07.54:794][215]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.03.10-15.07.54:830][216]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.03.10-15.07.54:830][216]LogEngine: Changing dynamic resolution state.
+[2020.03.10-15.08.00:241][865]BlueprintLog: New page: Compile BP_PickupObject
+[2020.03.10-15.08.00:461][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.03.10-15.08.03:943][259]LogEditorViewport: Clicking on Actor (LMB): BP_PickupObject_C (BP_PickupObject4)
+[2020.03.10-15.08.07:566][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.08.30:512][359]BlueprintLog: New page: Compile BP_PickupObject
+[2020.03.10-15.08.30:777][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.03.10-15.08.33:939][731]LogTemp: Repeating last play command: VR Preview
+[2020.03.10-15.08.33:957][731]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.08.33:957][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.10-15.08.33:957][731]LogHMD: Initializing OVRPlugin session
+[2020.03.10-15.08.34:044][731]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.03.10-15.08.34:044][731]PIE: New page: PIE session: World1 (10 Mar 2020 15:08:34)
+[2020.03.10-15.08.34:044][731]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.10-15.08.34:063][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019184s)
+[2020.03.10-15.08.34:064][731]LogAIModule: Creating AISystem for world World1
+[2020.03.10-15.08.34:065][731]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2020.03.10-15.08.34:065][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.020719s)
+[2020.03.10-15.08.34:102][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.03.10-15.08.34:163][731]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.10-15.08.34:181][731]LogInit: FAudioDevice initialized.
+[2020.03.10-15.08.34:188][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-15.08.34:208][731]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.10-15.08.34:208][731]LogLoad: Game class is 'GameModeBase'
+[2020.03.10-15.08.34:210][731]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-15.08.34:212][731]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.10-15.08.34
+[2020.03.10-15.08.34:213][731]LogWorld: Bringing up level for play took: 0.004256
+[2020.03.10-15.08.34:213][731]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.03.10-15.08.34:214][731]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.10-15.08.34:219][731]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 -0.019
+[2020.03.10-15.08.34:219][731]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.08.34:220][731]LogEngine: Changing dynamic resolution state.
+[2020.03.10-15.08.34:226][731]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.03.10-15.08.55:529][644]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.08.55:551][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-15.08.55:551][644]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.10-15.08.55:585][644]LogSlate: Window 'VREscapeRoom Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.10-15.08.55:587][644]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.08.55:603][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.10-15.08.55:603][644]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.08.55:646][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.03.10-15.08.55:675][645]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.03.10-15.08.55:675][645]LogEngine: Changing dynamic resolution state.
+[2020.03.10-15.08.59:911][153]LogEditorViewport: Clicking on Actor (LMB): BP_PickupObject_C (BP_PickupObject4)
+[2020.03.10-15.09.03:107][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.09.05:642][832]LogTemp: Repeating last play command: VR Preview
+[2020.03.10-15.09.05:660][832]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.09.05:660][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.10-15.09.05:660][832]LogHMD: Initializing OVRPlugin session
+[2020.03.10-15.09.05:733][832]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.03.10-15.09.05:733][832]PIE: New page: PIE session: World1 (10 Mar 2020 15:09:05)
+[2020.03.10-15.09.05:733][832]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.10-15.09.05:744][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010126s)
+[2020.03.10-15.09.05:744][832]LogAIModule: Creating AISystem for world World1
+[2020.03.10-15.09.05:744][832]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2020.03.10-15.09.05:744][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.010992s)
+[2020.03.10-15.09.05:772][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.03.10-15.09.05:827][832]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.10-15.09.05:844][832]LogInit: FAudioDevice initialized.
+[2020.03.10-15.09.05:851][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-15.09.05:867][832]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.10-15.09.05:867][832]LogLoad: Game class is 'GameModeBase'
+[2020.03.10-15.09.05:869][832]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.10-15.09.05:871][832]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.10-15.09.05
+[2020.03.10-15.09.05:871][832]LogWorld: Bringing up level for play took: 0.003786
+[2020.03.10-15.09.05:871][832]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.03.10-15.09.05:876][832]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 -0.359
+[2020.03.10-15.09.05:877][832]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.09.05:877][832]LogEngine: Changing dynamic resolution state.
+[2020.03.10-15.09.05:882][832]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.03.10-15.10.10:397][452]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.10.10:420][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-15.10.10:420][452]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.10-15.10.10:458][452]LogSlate: Window 'VREscapeRoom Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.10-15.10.10:461][452]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.10.10:479][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.10-15.10.10:479][452]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.10.10:520][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.03.10-15.10.10:537][453]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.03.10-15.10.10:538][453]LogEngine: Changing dynamic resolution state.
+[2020.03.10-15.17.34:688][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.03.10-15.17.35:293][883]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/World1_Auto287DC689D4D090E5396921DB54C995CBD.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Autosaves/Game/Maps/World1_Auto2.umap'
+[2020.03.10-15.17.35:298][883]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/World1' took 0.651
+[2020.03.10-15.17.35:298][883]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.651
+[2020.03.10-15.17.35:300][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/BP_PickupObject] ([1] browsable assets)...
+[2020.03.10-15.17.35:321][883]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BP_PickupObject.BP_PickupObject]
+[2020.03.10-15.17.35:321][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_PickupObject]
+[2020.03.10-15.17.35:462][883]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/BP_PickupObject_Auto2F4F04401484D7CF27DE5229BF73CEBF8.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Autosaves/Game/BluePrints/BP_PickupObject_Auto2.uasset'
+[2020.03.10-15.17.35:465][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/BP_Fuse] ([1] browsable assets)...
+[2020.03.10-15.17.35:474][883]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BP_Fuse.BP_Fuse]
+[2020.03.10-15.17.35:474][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_Fuse]
+[2020.03.10-15.17.35:577][883]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/BP_Fuse_Auto2787A9B724C0F67A88BB1BC9F76EC5FBA.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Autosaves/Game/BluePrints/BP_Fuse_Auto2.uasset'
+[2020.03.10-15.17.35:579][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/BP_Hammer] ([1] browsable assets)...
+[2020.03.10-15.17.35:591][883]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BP_Hammer.BP_Hammer]
+[2020.03.10-15.17.35:591][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_Hammer]
+[2020.03.10-15.17.35:753][883]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/BP_Hammer_Auto24EDD7ADF40173A9C43414B8F5665C14F.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Autosaves/Game/BluePrints/BP_Hammer_Auto2.uasset'
+[2020.03.10-15.17.35:755][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/BP_PickupGun] ([1] browsable assets)...
+[2020.03.10-15.17.35:764][883]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BP_PickupGun.BP_PickupGun]
+[2020.03.10-15.17.35:764][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_PickupGun]
+[2020.03.10-15.17.35:868][883]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/BP_PickupGun_Auto2851BA0934C168003E70CF784C2317BBE.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Autosaves/Game/BluePrints/BP_PickupGun_Auto2.uasset'
+[2020.03.10-15.17.35:870][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Asset_Materials/Alternates/Mat_PolygonScifi_03_B] ([1] browsable assets)...
+[2020.03.10-15.17.35:879][883]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Asset_Materials/Alternates/Mat_PolygonScifi_03_B.Mat_PolygonScifi_03_B]
+[2020.03.10-15.17.35:879][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Asset_Materials/Alternates/Mat_PolygonScifi_03_B]
+[2020.03.10-15.17.35:977][883]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Mat_PolygonScifi_03_B_Auto249BDA2BB42F55617942278840EC28AD4.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Autosaves/Game/Materials/Asset_Materials/Alternates/Mat_PolygonScifi_03_B_Auto2.uasset'
+[2020.03.10-15.17.35:979][883]LogFileHelpers: Auto-saving content packages took 0.680
+[2020.03.10-15.30.40:585][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Floor_2)
+[2020.03.10-15.30.41:036][487]LogEditorViewport: Clicking on Actor (LMB): BP_PickupObject_C (BP_PickupObject4)
+[2020.03.10-15.30.42:063][606]Cmd: DELETE
+[2020.03.10-15.30.42:063][606]Cmd: ACTOR DELETE
+[2020.03.10-15.30.42:068][606]LogEditorActor: Deleted Actor: BP_PickupObject_C
+[2020.03.10-15.30.42:102][606]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.03.10-15.30.42:102][606]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.03.10-15.30.44:268][781]Cmd: TRANSACTION UNDO
+[2020.03.10-15.30.44:268][781]LogEditorTransaction: Undo Delete Actors
+[2020.03.10-15.30.48:770][246]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.10-15.30.52:381][675]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.10-15.30.56:425][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.03.10-15.31.01:590][127]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.10-15.31.02:215][127]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.31.02:286][127]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/BluePrints/BP_PickupGun.BP_PickupGun
+	Asset Name: /Game/VR_Essential_Kit/Blueprints/BP_PickupGun.BP_PickupGun
+[2020.03.10-15.31.04:172][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.03.10-15.31.04:587][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.03.10-15.31.04:614][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.03.10-15.31.04:653][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.03.10-15.32.14:731][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.32.35:821][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.32.50:856][700]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.03.10-15.32.50:856][700]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.10-15.32.50:856][700]LogMaterial: Display: 	Only transparent or postprocess materials can read from scene depth.
+[2020.03.10-15.33.36:781][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.33.36:792][707]LogStaticMesh: Building static mesh SM_Prop_Security_Camera_02...
+[2020.03.10-15.33.36:807][707]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Environment/SM_Prop_Security_Camera_02.SM_Prop_Security_Camera_02
+[2020.03.10-15.33.36:925][719]LogActorFactory: Actor Factory created SM_Prop_Security_Camera_02
+[2020.03.10-15.33.37:945][840]LogActorFactory: Actor Factory created SM_Prop_Security_Camera_02
+[2020.03.10-15.33.41:047][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.33.41:065][199]LogStaticMesh: Building static mesh SM_Prop_Security_Camera_02_Top...
+[2020.03.10-15.33.41:075][199]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Environment/SM_Prop_Security_Camera_02_Top.SM_Prop_Security_Camera_02_Top
+[2020.03.10-15.33.41:138][205]LogActorFactory: Actor Factory created SM_Prop_Security_Camera_02_Top
+[2020.03.10-15.33.42:371][352]LogActorFactory: Actor Factory created SM_Prop_Security_Camera_02_Top
+[2020.03.10-15.33.49:513][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Security_Camera_02)
+[2020.03.10-15.33.52:251][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.33.59:863][420]Cmd: ACTOR SELECT ALL
+[2020.03.10-15.34.01:889][602]Cmd: TRANSACTION UNDO
+[2020.03.10-15.34.01:889][602]LogEditorTransaction: Undo Select All
+[2020.03.10-15.34.02:849][713]Cmd: TRANSACTION UNDO
+[2020.03.10-15.34.02:849][713]LogEditorTransaction: Undo Set Location
+[2020.03.10-15.34.25:654][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.34.27:061][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Security_Camera_02_Top)
+[2020.03.10-15.34.28:118][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.34.43:786][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Security_Camera_02)
+[2020.03.10-15.34.53:392][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.35.09:152][467]LogStaticMesh: Building static mesh SM_Prop_Security_Camera_01...
+[2020.03.10-15.35.09:163][467]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Environment/SM_Prop_Security_Camera_01.SM_Prop_Security_Camera_01
+[2020.03.10-15.35.09:745][533]LogStaticMesh: Building static mesh SM_Prop_Security_Camera_01_Top...
+[2020.03.10-15.35.09:756][533]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Environment/SM_Prop_Security_Camera_01_Top.SM_Prop_Security_Camera_01_Top
+[2020.03.10-15.35.11:771][761]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/SM_Prop_Security_Camera_013DC4A8164E24497B50576BA33BC45B63.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Environment/Security/SM_Prop_Security_Camera_01.uasset'
+[2020.03.10-15.35.11:811][761]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/SM_Prop_Security_Camera_01_TopC26ED6BC47D4B4B4640B62BF4133EC26.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Environment/Security/SM_Prop_Security_Camera_01_Top.uasset'
+[2020.03.10-15.35.11:869][761]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/SM_Prop_Security_Camera_02EB4D01FB4DA003F4A4A5C6BEA7F4E641.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Environment/Security/SM_Prop_Security_Camera_02.uasset'
+[2020.03.10-15.35.11:902][761]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/SM_Prop_Security_Camera_02_Top4AF802FD4502EE88C4404CA70951F276.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Meshes/Environment/Security/SM_Prop_Security_Camera_02_Top.uasset'
+[2020.03.10-15.35.12:283][761]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.03.10-15.35.12:311][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.03.10-15.35.12:342][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.03.10-15.35.12:370][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.03.10-15.35.12:403][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.03.10-15.35.12:432][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.03.10-15.35.18:727][210]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.10-15.35.23:307][750]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Meshes/Environment/Security/SecurityCamera.SecurityCamera
+[2020.03.10-15.36.04:222][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.36.11:271][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.36.16:253][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.36.29:981][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.37.02:476][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.37.02:550][926]BlueprintLog: New page: Compile SecurityCamera
+[2020.03.10-15.37.02:725][926]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.03.10-15.37.15:120][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.37.28:747][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.37.51:692][584]LogEditorTransaction: Undo Modify Component(s)
+[2020.03.10-15.37.55:421][  0]LogEditorTransaction: Undo Modify Component(s)
+[2020.03.10-15.37.56:354][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.38.00:373][549]LogEditorTransaction: Undo Modify Component(s)
+[2020.03.10-15.38.01:600][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.38.21:011][969]BlueprintLog: New page: Compile SecurityCamera
+[2020.03.10-15.38.21:195][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.03.10-15.40.24:626][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.41.28:831][ 43]BlueprintLog: New page: Compile SecurityCamera
+[2020.03.10-15.41.28:995][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.03.10-15.41.34:840][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Security_Camera_02)
+[2020.03.10-15.41.35:119][759]Cmd: DELETE
+[2020.03.10-15.41.35:119][759]Cmd: ACTOR DELETE
+[2020.03.10-15.41.35:123][759]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-15.41.35:157][759]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.03.10-15.41.35:157][759]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.03.10-15.41.35:538][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Security_Camera_02_Top)
+[2020.03.10-15.41.35:556][804]Cmd: DELETE
+[2020.03.10-15.41.35:556][804]Cmd: ACTOR DELETE
+[2020.03.10-15.41.35:558][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-15.41.35:586][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.03.10-15.41.35:586][804]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.03.10-15.41.38:307][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.41.48:307][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.41.54:248][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.42.02:444][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.10-15.42.08:139][670]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.10-15.42.09:713][856]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.10-15.42.09:713][856]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.10-15.42.09:720][856]LogPlayLevel: [PlayLevel] Compiling BP_PickupObject before play...
+[2020.03.10-15.42.09:722][856]LogPlayLevel: [PlayLevel]   Compiling BP_Fuse as a dependent...
+[2020.03.10-15.42.09:723][856]LogPlayLevel: [PlayLevel]   Compiling BP_Hammer as a dependent...
+[2020.03.10-15.42.09:735][856]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.10-15.42.10:242][856]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.508 s
+[2020.03.10-15.42.10:242][856]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.10-15.42.10:242][856]LogOutputDevice: Error: 
+[2020.03.10-15.42.10:242][856]LogOutputDevice: Error: Ensure condition failed: ChildClass->ClassDefaultObject == nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/Kismet/Private/BlueprintCompilationManager.cpp] [Line: 1046]
+[2020.03.10-15.42.10:242][856]LogOutputDevice: Error: 
+[2020.03.10-15.42.10:242][856]LogOutputDevice: Error: Stack: 
+[2020.03.10-15.42.10:242][856]LogOutputDevice: Error: [Callstack] 0x00007ff9384303e9 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.10-15.42.10:242][856]LogOutputDevice: Error: [Callstack] 0x00007ff937e91cad UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.10-15.42.10:242][856]LogOutputDevice: Error: [Callstack] 0x00007ff937e43977 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.10-15.42.10:242][856]LogOutputDevice: Error: [Callstack] 0x00007ff9393360e8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.10-15.42.10:242][856]LogOutputDevice: Error: [Callstack] 0x00007ff9394a6b92 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.10-15.42.10:242][856]LogOutputDevice: Error: [Callstack] 0x00007ff9394937c6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.10-15.42.10:243][856]LogOutputDevice: Error: [Callstack] 0x00007ff9394ae265 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.10-15.42.10:243][856]LogOutputDevice: Error: [Callstack] 0x00007ff938f6d9b4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.10-15.42.10:243][856]LogOutputDevice: Error: [Callstack] 0x00007ff9397c5296 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.10-15.42.10:243][856]LogOutputDevice: Error: [Callstack] 0x00007ff7d8537b0a UE4Editor.exe!UnknownFunction []
+[2020.03.10-15.42.10:243][856]LogOutputDevice: Error: [Callstack] 0x00007ff7d854a91c UE4Editor.exe!UnknownFunction []
+[2020.03.10-15.42.10:243][856]LogOutputDevice: Error: [Callstack] 0x00007ff7d854a9fa UE4Editor.exe!UnknownFunction []
+[2020.03.10-15.42.10:243][856]LogOutputDevice: Error: [Callstack] 0x00007ff7d855b92c UE4Editor.exe!UnknownFunction []
+[2020.03.10-15.42.10:243][856]LogOutputDevice: Error: [Callstack] 0x00007ff7d855e60e UE4Editor.exe!UnknownFunction []
+[2020.03.10-15.42.10:243][856]LogOutputDevice: Error: [Callstack] 0x00007ff9935c7974 KERNEL32.DLL!UnknownFunction []
+[2020.03.10-15.42.10:243][856]LogOutputDevice: Error: [Callstack] 0x00007ff99370a261 ntdll.dll!UnknownFunction []
+[2020.03.10-15.42.10:243][856]LogOutputDevice: Error: 
+[2020.03.10-15.42.10:281][856]LogStats:                SubmitErrorReport -  0.000 s
