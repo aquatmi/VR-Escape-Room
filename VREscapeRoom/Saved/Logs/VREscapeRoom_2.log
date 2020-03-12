@@ -1,0 +1,815 @@
+﻿Log file open, 03/12/20 16:04:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VREscapeRoom
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.251616
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Engine.ini]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Engine.ini]
+[2020.03.12-16.04.07:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Engine.ini]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.12-16.04.07:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Engine.ini]
+[2020.03.12-16.04.07:391][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.12-16.04.07:391][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.12-16.04.07:391][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.12-16.04.07:391][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.12-16.04.07:391][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.12-16.04.07:391][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.12-16.04.07:391][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.12-16.04.07:391][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.12-16.04.07:391][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.12-16.04.07:391][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.12-16.04.07:391][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.12-16.04.07:391][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.12-16.04.07:391][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.12-16.04.07:391][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Engine.ini]
+[2020.03.12-16.04.07:391][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Engine.ini]
+[2020.03.12-16.04.07:397][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.12-16.04.07:397][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.12-16.04.07:398][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.12-16.04.07:399][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.12-16.04.07:399][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-16.04.07:399][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.03.12-16.04.07:399][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.12-16.04.07:399][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.03.12-16.04.07:399][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.03.12-16.04.07:399][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.12-16.04.07:399][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.03.12-16.04.07:399][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.12-16.04.07:399][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.12-16.04.07:399][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.12-16.04.07:399][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.12-16.04.07:399][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.12-16.04.07:399][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.12-16.04.07:399][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.12-16.04.07:399][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-16.04.07:399][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.12-16.04.07:399][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.12-16.04.07:399][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.12-16.04.07:399][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.12-16.04.07:414][  0]LogHAL: Display: Platform has ~ 16 GB [17125552128 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.12-16.04.07:414][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.12-16.04.07:414][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.12-16.04.07:414][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.12-16.04.07:415][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Config/Windows/Engine.ini]
+[2020.03.12-16.04.07:415][  0]LogInit: Computer: ERD177-16
+[2020.03.12-16.04.07:415][  0]LogInit: User: N0737367
+[2020.03.12-16.04.07:415][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.12-16.04.07:415][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.12-16.04.07:416][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.12-16.04.07:416][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.12-16.04.07:416][  0]LogMemory: Process Physical Memory: 103.44 MB used, 103.44 MB peak
+[2020.03.12-16.04.07:416][  0]LogMemory: Process Virtual Memory: 99.72 MB used, 99.72 MB peak
+[2020.03.12-16.04.07:416][  0]LogMemory: Physical Memory: 8199.78 MB used,  8132.42 MB free, 16332.20 MB total
+[2020.03.12-16.04.07:416][  0]LogMemory: Virtual Memory: 4688.41 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2020.03.12-16.04.07:423][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.12-16.04.07:488][  0]LogInit: Using OS detected language (en-GB).
+[2020.03.12-16.04.07:488][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.12-16.04.07:490][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.03.12-16.04.07:797][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.12-16.04.07:919][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.12-16.04.07:919][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.12-16.04.14:152][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.12-16.04.14:262][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2020.03.12-16.04.14:262][  0]LogD3D11RHI:       4043/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.12-16.04.14:268][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.12-16.04.14:268][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.12-16.04.14:268][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.12-16.04.14:282][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.12-16.04.14:282][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.12-16.04.14:282][  0]LogWindows: EnumDisplayDevices:
+[2020.03.12-16.04.14:282][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2020.03.12-16.04.14:284][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.03.12-16.04.14:286][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.03.12-16.04.14:287][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.03.12-16.04.14:288][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.12-16.04.14:289][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2020.03.12-16.04.14:289][  0]LogD3D11RHI:   Driver Version: 441.20 (internal:26.21.14.4120, unified:441.20)
+[2020.03.12-16.04.14:289][  0]LogD3D11RHI:      Driver Date: 11-6-2019
+[2020.03.12-16.04.14:289][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2020.03.12-16.04.14:355][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.12-16.04.14:368][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.12-16.04.15:170][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.12-16.04.15:197][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.12-16.04.15:216][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.12-16.04.15:235][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.12-16.04.15:260][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.12-16.04.15:278][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.12-16.04.15:297][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.12-16.04.15:320][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.12-16.04.15:330][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.12-16.04.15:394][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.12-16.04.15:402][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.12-16.04.15:460][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.12-16.04.15:460][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.12-16.04.15:492][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.12-16.04.15:492][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.12-16.04.15:507][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.12-16.04.15:522][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.12-16.04.15:537][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.12-16.04.15:567][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.12-16.04.15:622][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.12-16.04.15:622][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.12-16.04.15:622][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.12-16.04.15:646][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.12-16.04.15:833][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Intermediate/Shaders/WorkingDirectory/34824/).
+[2020.03.12-16.04.15:833][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/N0737367/AppData/Local/Temp/UnrealShaderWorkingDir/B6E960C747296C249A8A55A9AFC28390/'.
+[2020.03.12-16.04.15:840][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2020.03.12-16.04.17:690][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.12-16.04.18:052][  0]LogDerivedDataCache: Loaded boot cache 0.36s 61MB C:/Users/N0737367/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.03.12-16.04.18:052][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/N0737367/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.03.12-16.04.18:053][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.12-16.04.18:053][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.12-16.04.18:053][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.12-16.04.18:053][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.12-16.04.18:065][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.12-16.04.18:066][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.12-16.04.18:066][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.12-16.04.18:069][  0]LogDerivedDataCache: Using Local data cache path C:/Users/N0737367/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.12-16.04.18:069][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.12-16.04.18:069][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.12-16.04.18:111][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.12-16.04.18:113][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.12-16.04.18:128][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.12-16.04.18:578][  0]LogAssetRegistry: FAssetRegistry took 0.0052 seconds to start up
+[2020.03.12-16.04.19:062][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.12-16.04.19:305][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.12-16.04.19:305][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.12-16.04.19:305][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.12-16.04.19:305][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.12-16.04.19:305][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.12-16.04.19:320][  0]LogNetVersion: VREscapeRoom 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2526743875)
+[2020.03.12-16.04.19:385][  0]LogNavigation: Error: [/Script/Engine.NavigationSystem] found in the DefaultEngine.ini file. This class has been moved. Please rename that section to [/Script/NavigationSystem.NavigationSystemV1]
+[2020.03.12-16.04.19:987][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.124177 seconds
+[2020.03.12-16.04.19:995][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.03.12-16.04.19:995][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.03.12-16.04.19:995][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.12-16.04.24:266][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.12-16.04.24:272][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.12-16.04.24:387][  0]SourceControl: Source control is disabled
+[2020.03.12-16.04.24:387][  0]SourceControl: Source control is disabled
+[2020.03.12-16.04.24:391][  0]SourceControl: Source control is disabled
+[2020.03.12-16.04.24:394][  0]SourceControl: Source control is disabled
+[2020.03.12-16.04.24:678][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.12-16.04.25:158][  0]LogOcInput: OculusInput pre-init called
+[2020.03.12-16.04.25:179][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.12-16.04.25:179][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.12-16.04.25:290][  0]LogEngine: Initializing Engine...
+[2020.03.12-16.04.25:308][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-29771B13
+[2020.03.12-16.04.25:310][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.12-16.04.25:612][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.12-16.04.25:645][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.12-16.04.25:805][  0]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.12-16.04.25:870][  0]LogInit: FAudioDevice initialized.
+[2020.03.12-16.04.25:870][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.12-16.04.26:135][  0]LogDerivedDataCache: Saved boot cache 0.26s 75MB C:/Users/N0737367/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.03.12-16.04.26:149][  0]LogInit: Texture streaming: Enabled
+[2020.03.12-16.04.26:205][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.12-16.04.26:205][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.12-16.04.26:219][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.12-16.04.26:344][  0]LogInit: Transaction tracking system initialized
+[2020.03.12-16.04.26:419][  0]BlueprintLog: New page: Editor Load
+[2020.03.12-16.04.26:624][  0]LocalizationService: Localization service is disabled
+[2020.03.12-16.04.27:076][  0]LogFileCache: Scanning file cache for directory 'C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/' took 0.02s
+[2020.03.12-16.04.27:076][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.12-16.04.27:076][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.12-16.04.27:673][  0]SourceControl: Source control is disabled
+[2020.03.12-16.04.27:673][  0]Cmd: MAP LOAD FILE="../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Maps/World1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.12-16.04.27:674][  0]LightingResults: New page: Lighting Build
+[2020.03.12-16.04.27:679][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-16.04.27:680][  0]MapCheck: New page: Map Check
+[2020.03.12-16.04.27:680][  0]LightingResults: New page: Lighting Build
+[2020.03.12-16.04.27:707][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.03.12-16.04.27:856][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand : Usage of 'Hand' has been deprecated. Please replace or remove it.
+[2020.03.12-16.04.27:857][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand : Usage of 'Set Tracking Source' has been deprecated. Please use the Motion Source property instead of Hand
+[2020.03.12-16.04.27:862][  0]LogBlueprint: Warning: [Compiler BP_MotionController] ProjectPointToNavigation_DEPRECATED : Usage of 'ProjectPointToNavigation_DEPRECATED' has been deprecated. This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2020.03.12-16.04.28:960][  0]LogAIModule: Creating AISystem for world World1
+[2020.03.12-16.04.28:978][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.12-16.04.29:000][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.12-16.04.29:000][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.12-16.04.29:000][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.12-16.04.29:013][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.12-16.04.29:055][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.03.12-16.04.29:055][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.12-16.04.29:056][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.569ms to complete.
+[2020.03.12-16.04.29:056][  0]LogFileHelpers: Loading map 'World1' took 1.383
+[2020.03.12-16.04.29:196][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-16.04.29:204][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-16.04.29:211][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-16.04.29:218][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-16.04.29:239][  0]LogCollectionManager: Loaded 0 collections in 0.005099 seconds
+[2020.03.12-16.04.29:251][  0]LogFileCache: Scanning file cache for directory 'C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Collections/' took 0.00s
+[2020.03.12-16.04.29:251][  0]LogFileCache: Scanning file cache for directory 'C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Developers/N0737367/Collections/' took 0.00s
+[2020.03.12-16.04.29:251][  0]LogFileCache: Scanning file cache for directory 'C:/Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Collections/' took 0.00s
+[2020.03.12-16.04.29:252][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.03.12-16.04.29:261][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2863 classes and 680 folders.
+[2020.03.12-16.04.29:276][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.12-16.04.29:542][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.12-16.04.29:552][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.12-16.04.29:584][  0]LogSlate: Took 0.009236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.12-16.04.29:593][  0]LogSlate: Took 0.007193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.12-16.04.29:605][  0]LogSlate: Took 0.007955 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.12-16.04.29:716][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.03.12-16.04.29:753][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 26 NumSamples 1 (Frame:1).
+[2020.03.12-16.04.29:891][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.03.12-16.04.29:909][  0]LogSlate: Window 'Tutorials' being destroyed
+[2020.03.12-16.04.29:923][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.12-16.04.29:923][  0]LogLoad: (Engine Initialization) Total time: 28.90 seconds
+[2020.03.12-16.04.29:923][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.12-16.04.29:996][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.12-16.04.30:101][  0]LogSlate: Took 0.068383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.12-16.04.30:377][  5]LogAssetRegistry: Asset discovery search completed in 11.8000 seconds
+[2020.03.12-16.04.30:383][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000015 seconds (found 0 objects)
+[2020.03.12-16.04.30:383][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000090 seconds (updated 0 objects)
+[2020.03.12-16.04.48:203][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-16.04.48:473][ 59]LogTemp: Repeating last play command: VR Preview
+[2020.03.12-16.04.48:502][ 59]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.12-16.04.48:509][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.12-16.04.48:510][ 59]PIE: New page: PIE session: World1 (12 Mar 2020 16:04:48)
+[2020.03.12-16.04.48:523][ 59]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.12-16.04.48:533][ 59]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.12-16.04.48:549][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015818s)
+[2020.03.12-16.04.48:551][ 59]LogAIModule: Creating AISystem for world World1
+[2020.03.12-16.04.48:551][ 59]LogPlayLevel: PIE: World Init took: (0.001461s)
+[2020.03.12-16.04.48:551][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.017858s)
+[2020.03.12-16.04.48:574][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.03.12-16.04.48:739][ 59]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.12-16.04.48:774][ 59]LogInit: FAudioDevice initialized.
+[2020.03.12-16.04.48:790][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-16.04.48:813][ 59]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.12-16.04.48:813][ 59]LogLoad: Game class is 'GameModeBase'
+[2020.03.12-16.04.48:845][ 59]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.12-16.04.48:846][ 59]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.12-16.04.48
+[2020.03.12-16.04.48:851][ 59]LogWorld: Bringing up level for play took: 0.018163
+[2020.03.12-16.04.48:853][ 59]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.03.12-16.04.48:907][ 59]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2020.03.12-16.04.48:926][ 59]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 -0.287
+[2020.03.12-16.04.48:927][ 59]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.12-16.04.49:003][ 61]LogRenderer: Reallocating scene render targets to support 3024x1680 Format 26 NumSamples 1 (Frame:1).
+[2020.03.12-16.05.44:493][410]PIE: Warning: Invalid Simulate Options: Body (vending_button.Mesh SM_Button) is set to simulate physics but Collision Enabled is incompatible
+[2020.03.12-16.05.44:493][410]PIE: Warning: Invalid Simulate Options: Body (vending_button.Mesh SM_Button) is set to simulate physics but Collision Enabled is incompatible
+[2020.03.12-16.06.55:155][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.12-16.06.55:217][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-16.06.55:218][ 65]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.12-16.06.55:275][ 65]LogSlate: Window 'VREscapeRoom Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.12-16.06.55:278][ 65]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-16.06.55:290][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.12-16.06.55:290][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.12-16.06.55:333][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.03.12-16.06.55:363][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.03.12-16.06.58:776][266]LogSlate: Window 'Message Log' being destroyed
+[2020.03.12-16.06.58:779][266]LogSlate: Window 'Message Log' being destroyed
+[2020.03.12-16.07.00:453][363]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.12-16.07.00:461][363]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/Motion/BP_MotionController.BP_MotionController
+[2020.03.12-16.07.01:051][363]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.03.12-16.07.02:244][363]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2020.03.12-16.07.02:360][363]LogMaterial: Display: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2020.03.12-16.07.02:762][363]LogSlate: Took 0.033176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.12-16.07.04:228][423]LogSlate: Took 0.027357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.12-16.07.26:611][619]LogSlate: Window 'BP_MotionController' being destroyed
+[2020.03.12-16.08.18:253][415]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+[2020.03.12-16.08.18:330][415]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.12-16.08.18:657][415]LogMaterial: Display: Missing cached shader map for material M_SkyBox, compiling. 
+[2020.03.12-16.08.18:714][415]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.12-16.08.18:756][415]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.03.12-16.08.18:906][415]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.12-16.08.34:835][  5]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.MannequinHand_Right_PhysicsAsset
+[2020.03.12-16.08.34:900][  5]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2020.03.12-16.08.34:918][  5]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.03.12-16.09.21:079][784]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.MannequinHand_Right_PhysicsAsset
+[2020.03.12-16.09.21:099][784]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.03.12-16.09.21:338][784]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-16.09.22:870][919]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.MannequinHand_Right_PhysicsAsset
+[2020.03.12-16.09.22:882][919]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.03.12-16.09.23:120][919]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-16.14.01:976][ 92]BlueprintLog: New page: Compile BP_MotionController
+[2020.03.12-16.14.02:026][ 92]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand : Usage of 'Hand' has been deprecated. Please replace or remove it.
+[2020.03.12-16.14.02:026][ 92]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand : Usage of 'Set Tracking Source' has been deprecated. Please use the Motion Source property instead of Hand
+[2020.03.12-16.14.02:035][ 92]LogBlueprint: Warning: [Compiler BP_MotionController] ProjectPointToNavigation_DEPRECATED : Usage of 'ProjectPointToNavigation_DEPRECATED' has been deprecated. This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2020.03.12-16.14.02:486][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2020.03.12-16.14.06:838][457]LogTemp: Repeating last play command: VR Preview
+[2020.03.12-16.14.06:865][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.12-16.14.06:866][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.12-16.14.06:866][457]PIE: New page: PIE session: World1 (12 Mar 2020 16:14:06)
+[2020.03.12-16.14.06:866][457]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.12-16.14.06:880][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014007s)
+[2020.03.12-16.14.06:881][457]LogAIModule: Creating AISystem for world World1
+[2020.03.12-16.14.06:881][457]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2020.03.12-16.14.06:881][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.015175s)
+[2020.03.12-16.14.06:947][457]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2020.03.12-16.14.07:085][457]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.12-16.14.07:122][457]LogInit: FAudioDevice initialized.
+[2020.03.12-16.14.07:130][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-16.14.07:143][457]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.12-16.14.07:143][457]LogLoad: Game class is 'GameModeBase'
+[2020.03.12-16.14.07:150][457]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.12-16.14.07:151][457]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.12-16.14.07
+[2020.03.12-16.14.07:152][457]LogWorld: Bringing up level for play took: 0.007818
+[2020.03.12-16.14.07:152][457]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.03.12-16.14.07:161][457]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 -0.062
+[2020.03.12-16.14.07:161][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.12-16.14.30:002][386]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={3F1E7C28-454A-C0D7-0ACC-8EAA4567AC96}
+[2020.03.12-16.16.56:997][214]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.12-16.16.57:033][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-16.16.57:034][214]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.12-16.16.57:082][214]LogSlate: Window 'VREscapeRoom Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.12-16.16.57:085][214]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-16.16.57:092][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.12-16.16.57:092][214]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.12-16.16.57:157][214]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.03.12-16.16.57:173][215]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.03.12-16.17.03:709][755]LogEditorViewport: Clicking on Actor (LMB): BP_InteractableActor_C (vending_button)
+[2020.03.12-16.17.04:684][824]LogEditorViewport: Clicking on Actor (LMB): BP_VendingMachine_C (VendingMachineBP)
+[2020.03.12-16.17.07:283][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-16.17.09:712][181]PIE: Warning: Constraint in '/Engine/Transient.World_21:PersistentLevel.BP_InteractableActor_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.03.12-16.17.10:595][223]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/Parents/BP_Slot.BP_Slot
+[2020.03.12-16.17.35:409][525]BlueprintLog: New page: Compile BP_Slot
+[2020.03.12-16.17.35:720][525]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.03.12-16.17.37:786][746]LogTemp: Repeating last play command: VR Preview
+[2020.03.12-16.17.37:842][746]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.12-16.17.37:842][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.12-16.17.37:843][746]PIE: New page: PIE session: World1 (12 Mar 2020 16:17:37)
+[2020.03.12-16.17.37:843][746]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.12-16.17.37:860][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016937s)
+[2020.03.12-16.17.37:861][746]LogAIModule: Creating AISystem for world World1
+[2020.03.12-16.17.37:861][746]LogPlayLevel: PIE: World Init took: (0.001296s)
+[2020.03.12-16.17.37:861][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.018413s)
+[2020.03.12-16.17.37:910][746]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2020.03.12-16.17.38:057][746]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.12-16.17.38:093][746]LogInit: FAudioDevice initialized.
+[2020.03.12-16.17.38:099][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-16.17.38:114][746]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.12-16.17.38:114][746]LogLoad: Game class is 'GameModeBase'
+[2020.03.12-16.17.38:120][746]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.12-16.17.38:121][746]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.12-16.17.38
+[2020.03.12-16.17.38:122][746]LogWorld: Bringing up level for play took: 0.007380
+[2020.03.12-16.17.38:122][746]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.03.12-16.17.38:125][746]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.12-16.17.38:131][746]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 0.905
+[2020.03.12-16.17.38:131][746]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.12-16.18.47:446][204]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.12-16.18.47:485][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-16.18.47:486][204]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.12-16.18.47:613][204]LogSlate: Window 'VREscapeRoom Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.12-16.18.47:620][204]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-16.18.47:641][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.12-16.18.47:641][204]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.12-16.18.47:703][204]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.03.12-16.18.47:794][205]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.03.12-16.19.02:468][636]BlueprintLog: New page: Compile BP_Slot
+[2020.03.12-16.19.02:764][636]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.03.12-16.19.11:427][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Wall_Generic_2)
+[2020.03.12-16.19.11:992][453]LogEditorViewport: Clicking on Actor (LMB): Robot_C (Robot)
+[2020.03.12-16.19.13:542][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-16.19.13:654][559]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/Robot.Robot
+[2020.03.12-16.19.25:750][944]BlueprintLog: New page: Compile Robot
+[2020.03.12-16.19.26:022][944]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.03.12-16.19.41:739][731]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.12-16.20.17:435][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-16.20.36:334][448]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.12-16.20.52:736][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-16.21.15:820][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-16.21.25:058][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-16.21.41:789][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-16.21.43:769][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.12-16.21.48:557][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-16.21.59:567][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-16.22.14:556][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.12-16.22.15:869][803]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.12-16.22.25:274][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-16.22.39:120][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.12-16.22.39:597][117]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.12-16.22.43:641][531]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.12-16.22.44:275][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.12-16.22.47:221][904]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.12-16.22.48:105][994]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.12-16.22.56:955][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-16.23.12:042][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-16.23.21:604][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-16.23.41:863][579]BlueprintLog: New page: Compile Robot
+[2020.03.12-16.23.42:653][579]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2020.03.12-16.24.05:221][111]BlueprintLog: New page: Compile Robot
+[2020.03.12-16.24.05:497][111]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2020.03.12-16.24.08:572][357]LogTemp: Repeating last play command: VR Preview
+[2020.03.12-16.24.08:602][357]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.12-16.24.08:602][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.12-16.24.08:602][357]PIE: New page: PIE session: World1 (12 Mar 2020 16:24:08)
+[2020.03.12-16.24.08:603][357]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World1
+[2020.03.12-16.24.08:617][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014663s)
+[2020.03.12-16.24.08:618][357]LogAIModule: Creating AISystem for world World1
+[2020.03.12-16.24.08:618][357]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2020.03.12-16.24.08:618][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World1.World1 to /Game/Maps/UEDPIE_0_World1.World1 (0.015912s)
+[2020.03.12-16.24.08:660][357]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.03.12-16.24.08:802][357]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.12-16.24.08:840][357]LogInit: FAudioDevice initialized.
+[2020.03.12-16.24.08:847][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-16.24.08:858][357]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.03.12-16.24.08:858][357]LogLoad: Game class is 'GameModeBase'
+[2020.03.12-16.24.08:863][357]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/UEDPIE_0_World1.World1:PersistentLevel.VendingMachineBP.FuseSpawnPoint' 
+[2020.03.12-16.24.08:866][357]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World1.World1 up for play (max tick rate 0) at 2020.03.12-16.24.08
+[2020.03.12-16.24.08:867][357]LogWorld: Bringing up level for play took: 0.008429
+[2020.03.12-16.24.08:868][357]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.03.12-16.24.08:876][357]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World1 -0.356
+[2020.03.12-16.24.08:877][357]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.12-16.24.38:165][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.12-16.24.38:228][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.12-16.24.38:228][981]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_World1
+[2020.03.12-16.24.38:275][981]LogSlate: Window 'VREscapeRoom Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.12-16.24.38:279][981]LogWorld: UWorld::CleanupWorld for World1, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-16.24.38:294][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.12-16.24.38:294][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/World1.World1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/World1.World1:PersistentLevel.World1' with GeneratedClass '/Game/Maps/World1.World1_C' with ClassGeneratedBy '/Game/Maps/World1.World1:PersistentLevel.World1'
+[2020.03.12-16.24.38:365][981]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.03.12-16.24.38:384][982]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.03.12-16.24.43:818][366]LogEditorViewport: Clicking on Actor (LMB): Robot_C (Robot)
+[2020.03.12-16.24.45:607][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.12-16.26.17:282][461]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-16.26.18:282][517]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.03.12-16.26.20:438][646]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/Parents/BP_PickupObject.BP_PickupObject
+[2020.03.12-16.26.48:493][343]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/Parents/BP_InteractableActor.BP_InteractableActor
+[2020.03.12-16.27.48:235][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2020.03.12-16.27.49:185][ 25]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/World1_Auto14B89EDD540A49F1633C12595F9E78D6C.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Autosaves/Game/Maps/World1_Auto1.umap'
+[2020.03.12-16.27.49:207][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/World1' took 1.030
+[2020.03.12-16.27.49:207][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.030
+[2020.03.12-16.27.49:209][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Motion/BP_MotionController] ([1] browsable assets)...
+[2020.03.12-16.27.49:222][ 25]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Motion/BP_MotionController.BP_MotionController]
+[2020.03.12-16.27.49:223][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Motion/BP_MotionController]
+[2020.03.12-16.27.49:959][ 25]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/BP_MotionController_Auto1BA2B840B40ECC07E989D44A06255F1C0.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Autosaves/Game/BluePrints/Motion/BP_MotionController_Auto1.uasset'
+[2020.03.12-16.27.49:964][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset] ([1] browsable assets)...
+[2020.03.12-16.27.49:978][ 25]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.MannequinHand_Right_PhysicsAsset]
+[2020.03.12-16.27.49:978][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset]
+[2020.03.12-16.27.50:208][ 25]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/MannequinHand_Right_PhysicsAsset395CAECE4710E5B47654B297FA89735E.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Autosaves/Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset_Auto1.uasset'
+[2020.03.12-16.27.50:212][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Parents/BP_Slot] ([1] browsable assets)...
+[2020.03.12-16.27.50:225][ 25]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Parents/BP_Slot.BP_Slot]
+[2020.03.12-16.27.50:225][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Parents/BP_Slot]
+[2020.03.12-16.27.50:556][ 25]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/BP_Slot_Auto12CDE91F44004034E41752D98CA6904E2.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Autosaves/Game/BluePrints/Parents/BP_Slot_Auto1.uasset'
+[2020.03.12-16.27.50:560][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Robot] ([1] browsable assets)...
+[2020.03.12-16.27.50:571][ 25]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Robot.Robot]
+[2020.03.12-16.27.50:571][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Robot]
+[2020.03.12-16.27.50:839][ 25]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Robot_Auto142170B124214AB5E0A3CA0B46A71FF67.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Autosaves/Game/BluePrints/Robot_Auto1.uasset'
+[2020.03.12-16.27.50:843][ 25]LogFileHelpers: Auto-saving content packages took 1.635
+[2020.03.12-16.37.51:298][653]LogUObjectHash: Compacting FUObjectHashTables data took  11.26ms
+[2020.03.12-16.37.51:299][653]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/World1' took 0.089
+[2020.03.12-16.37.51:301][653]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Motion/BP_MotionController] ([1] browsable assets)...
+[2020.03.12-16.37.51:325][653]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Motion/BP_MotionController.BP_MotionController]
+[2020.03.12-16.37.51:325][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Motion/BP_MotionController]
+[2020.03.12-16.37.52:060][653]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/BP_MotionController_Auto23FD6DDC3402BCD369FE2489383007DCC.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Autosaves/Game/BluePrints/Motion/BP_MotionController_Auto2.uasset'
+[2020.03.12-16.37.52:064][653]LogFileHelpers: Auto-saving content packages took 0.765
+[2020.03.12-16.39.53:606][228]BlueprintLog: New page: Compile BP_MotionController
+[2020.03.12-16.39.53:737][228]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand : Usage of 'Hand' has been deprecated. Please replace or remove it.
+[2020.03.12-16.39.53:737][228]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand : Usage of 'Set Tracking Source' has been deprecated. Please use the Motion Source property instead of Hand
+[2020.03.12-16.39.53:749][228]LogBlueprint: Warning: [Compiler BP_MotionController] ProjectPointToNavigation_DEPRECATED : Usage of 'ProjectPointToNavigation_DEPRECATED' has been deprecated. This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2020.03.12-16.39.54:627][228]LogUObjectHash: Compacting FUObjectHashTables data took  18.10ms
+[2020.03.12-16.41.48:809][889]LogSlate: Took 0.019214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.12-16.42.42:666][182]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/BluePrints/Parents/BP_PickupObject.BP_PickupObject_C or BlueprintGeneratedClass /Game/Meshes/Pickup_Items/BP_PickupObject.BP_PickupObject_C
+[2020.03.12-16.42.42:667][182]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Meshes/Pickup_Items/BP_PickupObject.SKEL_BP_PickupObject_C or BlueprintGeneratedClass /Game/BluePrints/Parents/BP_PickupObject.SKEL_BP_PickupObject_C
+[2020.03.12-16.46.15:705][195]BlueprintLog: New page: Compile BP_MotionController
+[2020.03.12-16.46.15:738][195]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand : Usage of 'Hand' has been deprecated. Please replace or remove it.
+[2020.03.12-16.46.15:738][195]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand : Usage of 'Set Tracking Source' has been deprecated. Please use the Motion Source property instead of Hand
+[2020.03.12-16.46.15:744][195]LogBlueprint: Warning: [Compiler BP_MotionController] ProjectPointToNavigation_DEPRECATED : Usage of 'ProjectPointToNavigation_DEPRECATED' has been deprecated. This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2020.03.12-16.46.16:133][195]LogUObjectHash: Compacting FUObjectHashTables data took   8.05ms
+[2020.03.12-16.51.54:298][859]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2020.03.12-16.51.54:343][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/World1" FILE="../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Maps/World1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.12-16.51.54:496][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.03.12-16.51.55:527][859]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/World1AD5026064293C834202A04B596150BFB.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/Maps/World1.umap'
+[2020.03.12-16.51.56:264][859]LogFileHelpers: Saving map 'World1' took 1.922
+[2020.03.12-16.51.57:007][859]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/BP_MotionControllerB449285C466EE0F672F5AD988CCC8060.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/Motion/BP_MotionController.uasset'
+[2020.03.12-16.51.57:254][859]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/MannequinHand_Right_PhysicsAsset49C494A74F8A1067B657A180300CEFA7.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset'
+[2020.03.12-16.51.57:270][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Parents/BP_Slot" FILE="../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/Parents/BP_Slot.uasset" SILENT=true
+[2020.03.12-16.51.57:623][859]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/BP_SlotB0137DC7434F48BE9A0230BA01D41D8B.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/Parents/BP_Slot.uasset'
+[2020.03.12-16.51.58:019][859]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/BP_PickupObjectD2E7850548A75163705D1599618D8966.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/Parents/BP_PickupObject.uasset'
+[2020.03.12-16.51.58:029][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Robot" FILE="../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/Robot.uasset" SILENT=true
+[2020.03.12-16.51.58:304][859]LogSavePackage: Moving '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Saved/Robot7EA30DEF47D86DC8C9EC53841D346795.tmp' to '../../../../../Users/N0737367/Documents/GitHub/VR-Project/VREscapeRoom/Content/BluePrints/Robot.uasset'
