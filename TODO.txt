@@ -1,13 +1,4 @@
-make more obvious
-add wall decorations
-make more things pickupable and add more pickups
-replace boxes of items with boxes with items in so that they can be picked up
-make starting room
-make ending sequence
-add sounds
-
-
-==FINISHING TOUCHES==
-post processing
-more particle systems
-make own models
+Make a start and an end
+add more objects
+make bottles smashable
+add more things to mess around with 
